@@ -1,0 +1,3248 @@
+{
+  "TSLA.US": {
+    "2025-03-31": {
+      "current_ratio": 2.0,
+      "quick_ratio": 1.54,
+      "cash_ratio": 1.24,
+      "debt_to_equity": 0.67,
+      "free_cash_flow": 664000000,
+      "fcf_margin": 0.03,
+      "net_margin": 0.02,
+      "shares_out": 3521000000
+    },
+    "2024-12-31": {
+      "current_ratio": 2.02,
+      "quick_ratio": 1.61,
+      "cash_ratio": 1.27,
+      "debt_to_equity": 0.66,
+      "free_cash_flow": 2034000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.09,
+      "shares_out": 3517000000
+    },
+    "2024-09-30": {
+      "current_ratio": 1.84,
+      "quick_ratio": 1.37,
+      "cash_ratio": 1.1,
+      "debt_to_equity": 0.69,
+      "free_cash_flow": 2742000000,
+      "fcf_margin": 0.11,
+      "net_margin": 0.09,
+      "shares_out": 3497000000
+    },
+    "2024-06-30": {
+      "current_ratio": 1.91,
+      "quick_ratio": 1.4,
+      "cash_ratio": 1.12,
+      "debt_to_equity": 0.68,
+      "free_cash_flow": 1340000000,
+      "fcf_margin": 0.05,
+      "net_margin": 0.06,
+      "shares_out": 3481000000
+    },
+    "2024-03-31": {
+      "current_ratio": 1.72,
+      "quick_ratio": 1.17,
+      "cash_ratio": 0.91,
+      "debt_to_equity": 0.68,
+      "free_cash_flow": -2535000000,
+      "fcf_margin": -0.12,
+      "net_margin": 0.05,
+      "shares_out": 3484000000
+    },
+    "2023-12-31": {
+      "current_ratio": 1.73,
+      "quick_ratio": 1.25,
+      "cash_ratio": 1.01,
+      "debt_to_equity": 0.68,
+      "free_cash_flow": 2063000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.32,
+      "shares_out": 3492000000
+    },
+    "2023-09-30": {
+      "current_ratio": 1.69,
+      "quick_ratio": 1.18,
+      "cash_ratio": 0.98,
+      "debt_to_equity": 0.72,
+      "free_cash_flow": 849000000,
+      "fcf_margin": 0.04,
+      "net_margin": 0.08,
+      "shares_out": 3493000000
+    },
+    "2023-06-30": {
+      "current_ratio": 1.59,
+      "quick_ratio": 1.07,
+      "cash_ratio": 0.84,
+      "debt_to_equity": 0.74,
+      "free_cash_flow": 1005000000,
+      "fcf_margin": 0.04,
+      "net_margin": 0.11,
+      "shares_out": 3478000000
+    },
+    "2023-03-31": {
+      "current_ratio": 1.57,
+      "quick_ratio": 1.04,
+      "cash_ratio": 0.82,
+      "debt_to_equity": 0.76,
+      "free_cash_flow": 440000000,
+      "fcf_margin": 0.02,
+      "net_margin": 0.11,
+      "shares_out": 3468000000
+    },
+    "2022-12-31": {
+      "current_ratio": 1.53,
+      "quick_ratio": 1.05,
+      "cash_ratio": 0.83,
+      "debt_to_equity": 0.79,
+      "free_cash_flow": 1420000000,
+      "fcf_margin": 0.06,
+      "net_margin": 0.15,
+      "shares_out": 3471000000
+    },
+    "2022-09-30": {
+      "current_ratio": 1.46,
+      "quick_ratio": 1.04,
+      "cash_ratio": 0.86,
+      "debt_to_equity": 0.81,
+      "free_cash_flow": 3297000000,
+      "fcf_margin": 0.15,
+      "net_margin": 0.15,
+      "shares_out": 3468000000
+    },
+    "2022-06-30": {
+      "current_ratio": 1.43,
+      "quick_ratio": 1.06,
+      "cash_ratio": 0.87,
+      "debt_to_equity": 0.82,
+      "free_cash_flow": 621000000,
+      "fcf_margin": 0.04,
+      "net_margin": 0.13,
+      "shares_out": 3464999900
+    },
+    "2022-03-31": {
+      "current_ratio": 1.35,
+      "quick_ratio": 1.04,
+      "cash_ratio": 0.84,
+      "debt_to_equity": 0.87,
+      "free_cash_flow": 2214000000,
+      "fcf_margin": 0.12,
+      "net_margin": 0.17,
+      "shares_out": 3470999900
+    },
+    "2021-12-31": {
+      "current_ratio": 1.38,
+      "quick_ratio": 1.08,
+      "cash_ratio": 0.9,
+      "debt_to_equity": 1.0,
+      "free_cash_flow": 2771000000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.13,
+      "shares_out": 3100522800
+    },
+    "2021-09-30": {
+      "current_ratio": 1.39,
+      "quick_ratio": 1.1,
+      "cash_ratio": 0.89,
+      "debt_to_equity": 1.03,
+      "free_cash_flow": 1322000000,
+      "fcf_margin": 0.1,
+      "net_margin": 0.12,
+      "shares_out": 3368999900
+    },
+    "2021-06-30": {
+      "current_ratio": 1.51,
+      "quick_ratio": 1.22,
+      "cash_ratio": 0.99,
+      "debt_to_equity": 1.1,
+      "free_cash_flow": 609000000,
+      "fcf_margin": 0.05,
+      "net_margin": 0.1,
+      "shares_out": 3356999900
+    },
+    "2021-03-31": {
+      "current_ratio": 1.66,
+      "quick_ratio": 1.38,
+      "cash_ratio": 1.15,
+      "debt_to_equity": 1.17,
+      "free_cash_flow": -1219000000,
+      "fcf_margin": -0.12,
+      "net_margin": 0.04,
+      "shares_out": 3399000000
+    },
+    "2020-12-31": {
+      "current_ratio": 1.88,
+      "quick_ratio": 1.59,
+      "cash_ratio": 1.36,
+      "debt_to_equity": 1.2,
+      "free_cash_flow": 1850000000,
+      "fcf_margin": 0.17,
+      "net_margin": 0.02,
+      "shares_out": 3372000000
+    },
+    "2020-09-30": {
+      "current_ratio": 1.63,
+      "quick_ratio": 1.32,
+      "cash_ratio": 1.09,
+      "debt_to_equity": 1.61,
+      "free_cash_flow": 1374000000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.04,
+      "shares_out": 3315000000
+    },
+    "2020-06-30": {
+      "current_ratio": 1.25,
+      "quick_ratio": 0.92,
+      "cash_ratio": 0.7,
+      "debt_to_equity": 2.36,
+      "free_cash_flow": 398000000,
+      "fcf_margin": 0.07,
+      "net_margin": 0.02,
+      "shares_out": 3108000000
+    },
+    "2020-03-31": {
+      "current_ratio": 1.24,
+      "quick_ratio": 0.87,
+      "cash_ratio": 0.67,
+      "debt_to_equity": 2.49,
+      "free_cash_flow": -921000000,
+      "fcf_margin": -0.15,
+      "net_margin": 0.01,
+      "shares_out": 2982000000
+    },
+    "2019-12-31": {
+      "current_ratio": 1.13,
+      "quick_ratio": 0.8,
+      "cash_ratio": 0.59,
+      "debt_to_equity": 3.23,
+      "free_cash_flow": 976000000,
+      "fcf_margin": 0.13,
+      "net_margin": 0.01,
+      "shares_out": 2805000000
+    },
+    "2019-09-30": {
+      "current_ratio": 1.08,
+      "quick_ratio": 0.73,
+      "cash_ratio": 0.53,
+      "debt_to_equity": 3.38,
+      "free_cash_flow": 346000000,
+      "fcf_margin": 0.05,
+      "net_margin": 0.02,
+      "shares_out": 2766000000
+    },
+    "2019-06-30": {
+      "current_ratio": 1.06,
+      "quick_ratio": 0.71,
+      "cash_ratio": 0.52,
+      "debt_to_equity": 3.46,
+      "free_cash_flow": 591000000,
+      "fcf_margin": 0.09,
+      "net_margin": -0.06,
+      "shares_out": 2655000000
+    },
+    "2019-03-31": {
+      "current_ratio": 0.83,
+      "quick_ratio": 0.42,
+      "cash_ratio": 0.24,
+      "debt_to_equity": 3.79,
+      "free_cash_flow": -945193000,
+      "fcf_margin": -0.21,
+      "net_margin": -0.15,
+      "shares_out": 2595000000
+    },
+    "2018-12-31": {
+      "current_ratio": 0.83,
+      "quick_ratio": 0.52,
+      "cash_ratio": 0.37,
+      "debt_to_equity": 3.71,
+      "free_cash_flow": 880660000,
+      "fcf_margin": 0.12,
+      "net_margin": 0.03,
+      "shares_out": 2685390000
+    },
+    "2018-09-30": {
+      "current_ratio": 0.81,
+      "quick_ratio": 0.47,
+      "cash_ratio": 0.3,
+      "debt_to_equity": 4.0,
+      "free_cash_flow": 831890000,
+      "fcf_margin": 0.12,
+      "net_margin": 0.05,
+      "shares_out": 2670000000
+    },
+    "2018-06-30": {
+      "current_ratio": 0.73,
+      "quick_ratio": 0.37,
+      "cash_ratio": 0.24,
+      "debt_to_equity": 4.3,
+      "free_cash_flow": -806877000,
+      "fcf_margin": -0.2,
+      "net_margin": -0.19,
+      "shares_out": 2549955000
+    },
+    "2018-03-31": {
+      "current_ratio": 0.74,
+      "quick_ratio": 0.44,
+      "cash_ratio": 0.31,
+      "debt_to_equity": 3.77,
+      "free_cash_flow": -1127013000,
+      "fcf_margin": -0.33,
+      "net_margin": -0.21,
+      "shares_out": 2537190000
+    },
+    "2017-12-31": {
+      "current_ratio": 0.86,
+      "quick_ratio": 0.56,
+      "cash_ratio": 0.44,
+      "debt_to_equity": 4.09,
+      "free_cash_flow": -396252000,
+      "fcf_margin": -0.12,
+      "net_margin": -0.23,
+      "shares_out": 2524710000
+    },
+    "2017-09-30": {
+      "current_ratio": 1.09,
+      "quick_ratio": 0.71,
+      "cash_ratio": 0.55,
+      "debt_to_equity": 3.55,
+      "free_cash_flow": -1545289000,
+      "fcf_margin": -0.52,
+      "net_margin": -0.21,
+      "shares_out": 2509410000
+    },
+    "2017-06-30": {
+      "current_ratio": 0.97,
+      "quick_ratio": 0.6,
+      "cash_ratio": 0.46,
+      "debt_to_equity": 2.96,
+      "free_cash_flow": -1358084000,
+      "fcf_margin": -0.49,
+      "net_margin": -0.12,
+      "shares_out": 2478180000
+    },
+    "2017-03-31": {
+      "current_ratio": 1.13,
+      "quick_ratio": 0.77,
+      "cash_ratio": 0.64,
+      "debt_to_equity": 3.07,
+      "free_cash_flow": -842383000,
+      "fcf_margin": -0.31,
+      "net_margin": -0.12,
+      "shares_out": 2431935000
+    },
+    "2016-12-31": {
+      "current_ratio": 1.07,
+      "quick_ratio": 0.72,
+      "cash_ratio": 0.58,
+      "debt_to_equity": 2.84,
+      "free_cash_flow": -1129490000,
+      "fcf_margin": -0.49,
+      "net_margin": -0.1,
+      "shares_out": 2325360000
+    },
+    "2016-09-30": {
+      "current_ratio": 1.73,
+      "quick_ratio": 1.19,
+      "cash_ratio": 1.03,
+      "debt_to_equity": 3.7,
+      "free_cash_flow": 176038000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.01,
+      "shares_out": 2354025000
+    },
+    "2016-06-30": {
+      "current_ratio": 2.21,
+      "quick_ratio": 1.53,
+      "cash_ratio": 1.38,
+      "debt_to_equity": 3.71,
+      "free_cash_flow": -144384000,
+      "fcf_margin": -0.11,
+      "net_margin": -0.23,
+      "shares_out": 2099745000
+    },
+    "2016-03-31": {
+      "current_ratio": 1.76,
+      "quick_ratio": 1.05,
+      "cash_ratio": 0.78,
+      "debt_to_equity": 8.47,
+      "free_cash_flow": -466464000,
+      "fcf_margin": -0.41,
+      "net_margin": -0.25,
+      "shares_out": 1990140000
+    },
+    "2015-12-31": {
+      "current_ratio": 1.71,
+      "quick_ratio": 0.93,
+      "cash_ratio": 0.74,
+      "debt_to_equity": 6.43,
+      "free_cash_flow": -441071000,
+      "fcf_margin": -0.36,
+      "net_margin": -0.26,
+      "shares_out": 1966500000
+    },
+    "2015-09-30": {
+      "current_ratio": 1.93,
+      "quick_ratio": 1.1,
+      "cash_ratio": 0.92,
+      "debt_to_equity": 4.74,
+      "free_cash_flow": -595743000,
+      "fcf_margin": -0.64,
+      "net_margin": -0.25,
+      "shares_out": 1935090000
+    },
+    "2015-06-30": {
+      "current_ratio": 1.8,
+      "quick_ratio": 0.97,
+      "cash_ratio": 0.79,
+      "debt_to_equity": 8.03,
+      "free_cash_flow": -564681000,
+      "fcf_margin": -0.59,
+      "net_margin": -0.19,
+      "shares_out": 1900335000
+    },
+    "2015-03-31": {
+      "current_ratio": 2.19,
+      "quick_ratio": 1.4,
+      "cash_ratio": 1.13,
+      "debt_to_equity": 6.41,
+      "free_cash_flow": -557854000,
+      "fcf_margin": -0.59,
+      "net_margin": -0.16,
+      "shares_out": 1889205000
+    },
+    "2014-12-31": {
+      "current_ratio": 2.44,
+      "quick_ratio": 1.71,
+      "cash_ratio": 1.46,
+      "debt_to_equity": 5.42,
+      "free_cash_flow": -455063000,
+      "fcf_margin": -0.48,
+      "net_margin": -0.11,
+      "shares_out": 1882455000
+    },
+    "2014-09-30": {
+      "current_ratio": 3.14,
+      "quick_ratio": 2.44,
+      "cash_ratio": 2.21,
+      "debt_to_equity": 4.68,
+      "free_cash_flow": -312171000,
+      "fcf_margin": -0.37,
+      "net_margin": -0.09,
+      "shares_out": 1873665000
+    },
+    "2014-06-30": {
+      "current_ratio": 4.13,
+      "quick_ratio": 3.42,
+      "cash_ratio": 3.21,
+      "debt_to_equity": 4.31,
+      "free_cash_flow": -177347000,
+      "fcf_margin": -0.23,
+      "net_margin": -0.08,
+      "shares_out": 1863756400
+    },
+    "2014-03-31": {
+      "current_ratio": 4.49,
+      "quick_ratio": 3.85,
+      "cash_ratio": 3.68,
+      "debt_to_equity": 3.93,
+      "free_cash_flow": -82641000,
+      "fcf_margin": -0.13,
+      "net_margin": -0.08,
+      "shares_out": 1852091700
+    },
+    "2013-12-31": {
+      "current_ratio": 2.2,
+      "quick_ratio": 1.61,
+      "cash_ratio": 1.47,
+      "debt_to_equity": 2.62,
+      "free_cash_flow": 40328000,
+      "fcf_margin": 0.07,
+      "net_margin": -0.03,
+      "shares_out": 1842030000
+    },
+    "2013-09-30": {
+      "current_ratio": 2.36,
+      "quick_ratio": 1.68,
+      "cash_ratio": 1.54,
+      "debt_to_equity": 2.84,
+      "free_cash_flow": 25488000,
+      "fcf_margin": 0.06,
+      "net_margin": -0.09,
+      "shares_out": 1827937500
+    },
+    "2013-06-30": {
+      "current_ratio": 2.5,
+      "quick_ratio": 1.94,
+      "cash_ratio": 1.65,
+      "debt_to_equity": 2.0,
+      "free_cash_flow": -75813000,
+      "fcf_margin": -0.19,
+      "net_margin": -0.08,
+      "shares_out": 1772904100
+    },
+    "2013-03-31": {
+      "current_ratio": 1.11,
+      "quick_ratio": 0.61,
+      "cash_ratio": 0.45,
+      "debt_to_equity": 5.78,
+      "free_cash_flow": 6352000,
+      "fcf_margin": 0.01,
+      "net_margin": 0.02,
+      "shares_out": 1863979400
+    },
+    "2012-12-31": {
+      "current_ratio": 1.53,
+      "quick_ratio": 0.75,
+      "cash_ratio": 0.59,
+      "debt_to_equity": 7.93,
+      "free_cash_flow": -101544000,
+      "fcf_margin": -0.33,
+      "net_margin": -0.29,
+      "shares_out": 1706445000
+    },
+    "2012-09-30": {
+      "current_ratio": 0.85,
+      "quick_ratio": 0.38,
+      "cash_ratio": 0.26,
+      "debt_to_equity": -30.03,
+      "free_cash_flow": -169498000,
+      "fcf_margin": -3.38,
+      "net_margin": -2.21,
+      "shares_out": 1583342400
+    },
+    "2012-06-30": {
+      "current_ratio": 1.26,
+      "quick_ratio": 1.0,
+      "cash_ratio": 0.84,
+      "debt_to_equity": 11.49,
+      "free_cash_flow": -125550000,
+      "fcf_margin": -4.71,
+      "net_margin": -3.96,
+      "shares_out": 1578636800
+    },
+    "2012-03-31": {
+      "current_ratio": 1.65,
+      "quick_ratio": 1.4,
+      "cash_ratio": 1.12,
+      "debt_to_equity": 3.95,
+      "free_cash_flow": -131287000,
+      "fcf_margin": -4.35,
+      "net_margin": -2.98,
+      "shares_out": 1571765100
+    },
+    "2011-12-31": {
+      "current_ratio": 1.95,
+      "quick_ratio": 1.69,
+      "cash_ratio": 1.47,
+      "debt_to_equity": 2.18,
+      "free_cash_flow": -81350000,
+      "fcf_margin": -2.07,
+      "net_margin": -2.07,
+      "shares_out": 1571760000
+    },
+    "2011-09-30": {
+      "current_ratio": 2.67,
+      "quick_ratio": 2.35,
+      "cash_ratio": 1.81,
+      "debt_to_equity": 1.38,
+      "free_cash_flow": -90335000,
+      "fcf_margin": -1.57,
+      "net_margin": -1.13,
+      "shares_out": 1561152500
+    },
+    "2011-06-30": {
+      "current_ratio": 3.01,
+      "quick_ratio": 2.62,
+      "cash_ratio": 2.3,
+      "debt_to_equity": 0.85,
+      "free_cash_flow": -76802000,
+      "fcf_margin": -1.32,
+      "net_margin": -1.01,
+      "shares_out": 1466359000
+    },
+    "2011-03-31": {
+      "current_ratio": 2.01,
+      "quick_ratio": 1.56,
+      "cash_ratio": 0.89,
+      "debt_to_equity": 1.43,
+      "free_cash_flow": -63773000,
+      "fcf_margin": -1.3,
+      "net_margin": -1.0,
+      "shares_out": 1427810200
+    },
+    "2010-12-31": {
+      "current_ratio": 2.76,
+      "quick_ratio": 2.23,
+      "cash_ratio": 1.16,
+      "debt_to_equity": 0.86,
+      "free_cash_flow": -51432000,
+      "fcf_margin": -1.42,
+      "net_margin": -1.42,
+      "shares_out": 1427810200
+    },
+    "2010-09-30": {
+      "current_ratio": 3.48,
+      "quick_ratio": 2.91,
+      "cash_ratio": 1.39,
+      "debt_to_equity": 0.64,
+      "free_cash_flow": -53725000,
+      "fcf_margin": -1.72,
+      "net_margin": -1.12,
+      "shares_out": 1384060800
+    },
+    "2010-06-30": {
+      "current_ratio": 1.31,
+      "quick_ratio": 0.88,
+      "cash_ratio": 0.69,
+      "debt_to_equity": -1.48,
+      "free_cash_flow": -30062000,
+      "fcf_margin": -1.06,
+      "net_margin": -1.36,
+      "shares_out": 1169607500
+    },
+    "2010-03-31": {
+      "current_ratio": 1.7,
+      "quick_ratio": 1.22,
+      "cash_ratio": 1.04,
+      "debt_to_equity": 2.29,
+      "free_cash_flow": -32801000,
+      "fcf_margin": -1.58,
+      "net_margin": -1.42,
+      "shares_out": 1396640900
+    },
+    "2009-12-31": {
+      "current_ratio": 1.75,
+      "quick_ratio": 1.35,
+      "cash_ratio": 1.21,
+      "debt_to_equity": -1.51,
+      "free_cash_flow": -35206000,
+      "fcf_margin": -1.89,
+      "net_margin": -1.3,
+      "shares_out": 1169607500
+    },
+    "2009-09-30": {
+      "current_ratio": 2.16,
+      "quick_ratio": 1.84,
+      "cash_ratio": 1.75,
+      "debt_to_equity": -1.68,
+      "free_cash_flow": -25745000,
+      "fcf_margin": -0.57,
+      "net_margin": -0.1,
+      "shares_out": 2099745000
+    },
+    "2009-06-30": {
+      "current_ratio": 2.16,
+      "quick_ratio": 1.84,
+      "cash_ratio": NaN,
+      "debt_to_equity": -1.68,
+      "free_cash_flow": -14693000,
+      "fcf_margin": -0.55,
+      "net_margin": -0.4,
+      "shares_out": 2099745000
+    },
+    "2009-03-31": {
+      "current_ratio": 1.75,
+      "quick_ratio": 1.35,
+      "cash_ratio": 1.21,
+      "debt_to_equity": -1.51,
+      "free_cash_flow": -17065000,
+      "fcf_margin": -0.82,
+      "net_margin": -0.77,
+      "shares_out": 2099745000
+    },
+    "2008-12-31": {
+      "current_ratio": 0.36,
+      "quick_ratio": 0.17,
+      "cash_ratio": 0.11,
+      "debt_to_equity": -1.26,
+      "free_cash_flow": -22498000,
+      "fcf_margin": -1.59,
+      "net_margin": -1.8,
+      "shares_out": 1169607500
+    },
+    "2008-09-30": {
+      "current_ratio": 0.36,
+      "quick_ratio": 0.17,
+      "cash_ratio": NaN,
+      "debt_to_equity": -1.26,
+      "free_cash_flow": -22498000,
+      "fcf_margin": -1.59,
+      "net_margin": -1.8,
+      "shares_out": 699915000
+    },
+    "2008-03-31": {
+      "current_ratio": 0.36,
+      "quick_ratio": 0.17,
+      "cash_ratio": 0.11,
+      "debt_to_equity": -1.26,
+      "free_cash_flow": -15510500,
+      "fcf_margin": -4.21,
+      "net_margin": -5.62,
+      "shares_out": 2044950000
+    },
+    "2007-12-31": {
+      "current_ratio": 0.36,
+      "quick_ratio": 0.17,
+      "cash_ratio": 0.11,
+      "debt_to_equity": -1.26,
+      "free_cash_flow": -15510500,
+      "fcf_margin": -4.21,
+      "net_margin": -5.62,
+      "shares_out": 2044950000
+    },
+    "2007-03-31": {
+      "current_ratio": 0.43,
+      "quick_ratio": 0.39,
+      "cash_ratio": 0.34,
+      "debt_to_equity": -1.3,
+      "free_cash_flow": -15817750,
+      "fcf_margin": -866.73,
+      "net_margin": -1070.64,
+      "shares_out": 2044950000
+    }
+  },
+  "AAPL.US": {
+    "2024-12-31": {
+      "current_ratio": 0.92,
+      "quick_ratio": 0.88,
+      "cash_ratio": 0.37,
+      "debt_to_equity": 4.15,
+      "free_cash_flow": 26995000000,
+      "fcf_margin": 0.22,
+      "net_margin": 0.29,
+      "shares_out": 15150865000
+    },
+    "2024-09-30": {
+      "current_ratio": 0.87,
+      "quick_ratio": 0.83,
+      "cash_ratio": 0.37,
+      "debt_to_equity": 5.41,
+      "free_cash_flow": 23903000000,
+      "fcf_margin": 0.25,
+      "net_margin": 0.16,
+      "shares_out": 15408095000
+    },
+    "2024-06-30": {
+      "current_ratio": 0.95,
+      "quick_ratio": 0.91,
+      "cash_ratio": 0.47,
+      "debt_to_equity": 3.97,
+      "free_cash_flow": 26707000000,
+      "fcf_margin": 0.31,
+      "net_margin": 0.25,
+      "shares_out": 15348175000
+    },
+    "2024-03-31": {
+      "current_ratio": 1.04,
+      "quick_ratio": 0.99,
+      "cash_ratio": 0.54,
+      "debt_to_equity": 3.55,
+      "free_cash_flow": 20694000000,
+      "fcf_margin": 0.23,
+      "net_margin": 0.26,
+      "shares_out": 15464709000
+    },
+    "2023-12-31": {
+      "current_ratio": 1.07,
+      "quick_ratio": 1.02,
+      "cash_ratio": 0.55,
+      "debt_to_equity": 3.77,
+      "free_cash_flow": 37503000000,
+      "fcf_margin": 0.31,
+      "net_margin": 0.28,
+      "shares_out": 15576641000
+    },
+    "2023-09-30": {
+      "current_ratio": 0.99,
+      "quick_ratio": 0.94,
+      "cash_ratio": 0.42,
+      "debt_to_equity": 4.67,
+      "free_cash_flow": 19435000000,
+      "fcf_margin": 0.22,
+      "net_margin": 0.26,
+      "shares_out": 15672400000
+    },
+    "1997-06-30": {
+      "current_ratio": 1.67,
+      "quick_ratio": 1.39,
+      "cash_ratio": 0.64,
+      "debt_to_equity": 2.63,
+      "free_cash_flow": -212000000,
+      "fcf_margin": -0.12,
+      "net_margin": -0.03,
+      "shares_out": 14168000000
+    },
+    "2023-06-30": {
+      "current_ratio": 0.98,
+      "quick_ratio": 0.92,
+      "cash_ratio": 0.5,
+      "debt_to_equity": 4.56,
+      "free_cash_flow": 24287000000,
+      "fcf_margin": 0.3,
+      "net_margin": 0.24,
+      "shares_out": 15775021000
+    },
+    "2023-03-31": {
+      "current_ratio": 0.94,
+      "quick_ratio": 0.88,
+      "cash_ratio": 0.47,
+      "debt_to_equity": 4.34,
+      "free_cash_flow": 25644000000,
+      "fcf_margin": 0.27,
+      "net_margin": 0.25,
+      "shares_out": 15847050000
+    },
+    "2022-12-31": {
+      "current_ratio": 0.94,
+      "quick_ratio": 0.89,
+      "cash_ratio": 0.37,
+      "debt_to_equity": 5.11,
+      "free_cash_flow": 30218000000,
+      "fcf_margin": 0.26,
+      "net_margin": 0.26,
+      "shares_out": 15955718000
+    },
+    "2022-09-30": {
+      "current_ratio": 0.88,
+      "quick_ratio": 0.85,
+      "cash_ratio": 0.31,
+      "debt_to_equity": 5.96,
+      "free_cash_flow": 20838000000,
+      "fcf_margin": 0.23,
+      "net_margin": 0.23,
+      "shares_out": 16118465000
+    },
+    "2022-06-30": {
+      "current_ratio": 0.86,
+      "quick_ratio": 0.82,
+      "cash_ratio": 0.37,
+      "debt_to_equity": 4.79,
+      "free_cash_flow": 20790000000,
+      "fcf_margin": 0.25,
+      "net_margin": 0.23,
+      "shares_out": 16262203000
+    },
+    "2022-03-31": {
+      "current_ratio": 0.93,
+      "quick_ratio": 0.88,
+      "cash_ratio": 0.4,
+      "debt_to_equity": 4.2,
+      "free_cash_flow": 25652000000,
+      "fcf_margin": 0.26,
+      "net_margin": 0.26,
+      "shares_out": 16519291000
+    },
+    "2021-12-31": {
+      "current_ratio": 1.04,
+      "quick_ratio": 1.0,
+      "cash_ratio": 0.43,
+      "debt_to_equity": 4.3,
+      "free_cash_flow": 44163000000,
+      "fcf_margin": 0.36,
+      "net_margin": 0.28,
+      "shares_out": 16519291000
+    },
+    "2021-09-30": {
+      "current_ratio": 1.07,
+      "quick_ratio": 1.02,
+      "cash_ratio": 0.5,
+      "debt_to_equity": 4.56,
+      "free_cash_flow": 16977000000,
+      "fcf_margin": 0.2,
+      "net_margin": 0.25,
+      "shares_out": 16635097000
+    },
+    "2021-06-30": {
+      "current_ratio": 1.06,
+      "quick_ratio": 1.01,
+      "cash_ratio": 0.57,
+      "debt_to_equity": 4.13,
+      "free_cash_flow": 19001000000,
+      "fcf_margin": 0.23,
+      "net_margin": 0.27,
+      "shares_out": 16781735000
+    },
+    "2021-03-31": {
+      "current_ratio": 1.14,
+      "quick_ratio": 1.09,
+      "cash_ratio": 0.66,
+      "debt_to_equity": 3.87,
+      "free_cash_flow": 21712000000,
+      "fcf_margin": 0.24,
+      "net_margin": 0.26,
+      "shares_out": 16929157000
+    },
+    "2020-12-31": {
+      "current_ratio": 1.16,
+      "quick_ratio": 1.13,
+      "cash_ratio": 0.58,
+      "debt_to_equity": 4.35,
+      "free_cash_flow": 35263000000,
+      "fcf_margin": 0.32,
+      "net_margin": 0.26,
+      "shares_out": 17113688000
+    },
+    "2020-09-30": {
+      "current_ratio": 1.36,
+      "quick_ratio": 1.33,
+      "cash_ratio": 0.86,
+      "debt_to_equity": 3.96,
+      "free_cash_flow": 18792000000,
+      "fcf_margin": 0.29,
+      "net_margin": 0.2,
+      "shares_out": 17256521000
+    },
+    "2020-06-30": {
+      "current_ratio": 1.47,
+      "quick_ratio": 1.43,
+      "cash_ratio": 0.98,
+      "debt_to_equity": 3.39,
+      "free_cash_flow": 14706000000,
+      "fcf_margin": 0.25,
+      "net_margin": 0.19,
+      "shares_out": 17419152000
+    },
+    "2020-03-31": {
+      "current_ratio": 1.5,
+      "quick_ratio": 1.46,
+      "cash_ratio": 0.98,
+      "debt_to_equity": 3.09,
+      "free_cash_flow": 11458000000,
+      "fcf_margin": 0.2,
+      "net_margin": 0.19,
+      "shares_out": 17618764000
+    },
+    "2019-12-31": {
+      "current_ratio": 1.6,
+      "quick_ratio": 1.56,
+      "cash_ratio": 1.05,
+      "debt_to_equity": 2.8,
+      "free_cash_flow": 28409000000,
+      "fcf_margin": 0.31,
+      "net_margin": 0.24,
+      "shares_out": 17818416000
+    },
+    "2019-09-30": {
+      "current_ratio": 1.54,
+      "quick_ratio": 1.5,
+      "cash_ratio": 0.95,
+      "debt_to_equity": 2.74,
+      "free_cash_flow": 17133000000,
+      "fcf_margin": 0.27,
+      "net_margin": 0.21,
+      "shares_out": 18081492000
+    },
+    "2019-06-30": {
+      "current_ratio": 1.5,
+      "quick_ratio": 1.47,
+      "cash_ratio": 1.05,
+      "debt_to_equity": 2.34,
+      "free_cash_flow": 9636000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.19,
+      "shares_out": 18405520000
+    },
+    "2019-03-31": {
+      "current_ratio": 1.32,
+      "quick_ratio": 1.26,
+      "cash_ratio": 0.85,
+      "debt_to_equity": 2.23,
+      "free_cash_flow": 8792000000,
+      "fcf_margin": 0.15,
+      "net_margin": 0.2,
+      "shares_out": 18802584000
+    },
+    "2018-12-31": {
+      "current_ratio": 1.3,
+      "quick_ratio": 1.25,
+      "cash_ratio": 0.8,
+      "debt_to_equity": 2.17,
+      "free_cash_flow": 23335000000,
+      "fcf_margin": 0.28,
+      "net_margin": 0.24,
+      "shares_out": 19093008000
+    },
+    "2018-09-30": {
+      "current_ratio": 1.12,
+      "quick_ratio": 1.09,
+      "cash_ratio": 0.57,
+      "debt_to_equity": 2.41,
+      "free_cash_flow": 16482000000,
+      "fcf_margin": 0.26,
+      "net_margin": 0.22,
+      "shares_out": 19390188000
+    },
+    "2018-06-30": {
+      "current_ratio": 1.31,
+      "quick_ratio": 1.24,
+      "cash_ratio": 0.8,
+      "debt_to_equity": 2.04,
+      "free_cash_flow": 11221000000,
+      "fcf_margin": 0.21,
+      "net_margin": 0.22,
+      "shares_out": 19706436000
+    },
+    "2018-03-31": {
+      "current_ratio": 1.46,
+      "quick_ratio": 1.37,
+      "cash_ratio": 0.98,
+      "debt_to_equity": 1.9,
+      "free_cash_flow": 10935000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.23,
+      "shares_out": 20273972000
+    },
+    "2005-09-30": {
+      "current_ratio": 2.86,
+      "quick_ratio": 2.81,
+      "cash_ratio": 2.37,
+      "debt_to_equity": 0.55,
+      "free_cash_flow": 656000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.12,
+      "shares_out": 24477796000
+    },
+    "2017-12-31": {
+      "current_ratio": 1.24,
+      "quick_ratio": 1.2,
+      "cash_ratio": 0.67,
+      "debt_to_equity": 1.9,
+      "free_cash_flow": 25483000000,
+      "fcf_margin": 0.29,
+      "net_margin": 0.23,
+      "shares_out": 20631148000
+    },
+    "2017-09-30": {
+      "current_ratio": 1.28,
+      "quick_ratio": 1.23,
+      "cash_ratio": 0.74,
+      "debt_to_equity": 1.8,
+      "free_cash_flow": 11656000000,
+      "fcf_margin": 0.22,
+      "net_margin": 0.2,
+      "shares_out": 20734340000
+    },
+    "2017-06-30": {
+      "current_ratio": 1.39,
+      "quick_ratio": 1.35,
+      "cash_ratio": 0.94,
+      "debt_to_equity": 1.61,
+      "free_cash_flow": 6312000000,
+      "fcf_margin": 0.14,
+      "net_margin": 0.19,
+      "shares_out": 20933996000
+    },
+    "2017-03-31": {
+      "current_ratio": 1.39,
+      "quick_ratio": 1.35,
+      "cash_ratio": 0.91,
+      "debt_to_equity": 1.49,
+      "free_cash_flow": 9555000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.21,
+      "shares_out": 21046752000
+    },
+    "2016-12-31": {
+      "current_ratio": 1.23,
+      "quick_ratio": 1.2,
+      "cash_ratio": 0.72,
+      "debt_to_equity": 1.5,
+      "free_cash_flow": 23814000000,
+      "fcf_margin": 0.3,
+      "net_margin": 0.23,
+      "shares_out": 21311980000
+    },
+    "2016-09-30": {
+      "current_ratio": 1.35,
+      "quick_ratio": 1.33,
+      "cash_ratio": 0.85,
+      "debt_to_equity": 1.51,
+      "free_cash_flow": 12088000000,
+      "fcf_margin": 0.26,
+      "net_margin": 0.19,
+      "shares_out": 21573332000
+    },
+    "2016-06-30": {
+      "current_ratio": 1.31,
+      "quick_ratio": 1.29,
+      "cash_ratio": 0.86,
+      "debt_to_equity": 1.42,
+      "free_cash_flow": 7729000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.18,
+      "shares_out": 21891124000
+    },
+    "2016-03-31": {
+      "current_ratio": 1.28,
+      "quick_ratio": 1.25,
+      "cash_ratio": 0.81,
+      "debt_to_equity": 1.34,
+      "free_cash_flow": 9002000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.21,
+      "shares_out": 22163544000
+    },
+    "2015-12-31": {
+      "current_ratio": 1.0,
+      "quick_ratio": 0.97,
+      "cash_ratio": 0.5,
+      "debt_to_equity": 1.29,
+      "free_cash_flow": 23457000000,
+      "fcf_margin": 0.31,
+      "net_margin": 0.24,
+      "shares_out": 22376508000
+    },
+    "2015-09-30": {
+      "current_ratio": 1.04,
+      "quick_ratio": 1.01,
+      "cash_ratio": 0.52,
+      "debt_to_equity": 1.43,
+      "free_cash_flow": 9817000000,
+      "fcf_margin": 0.19,
+      "net_margin": 0.22,
+      "shares_out": 22730076000
+    },
+    "2015-06-30": {
+      "current_ratio": 1.01,
+      "quick_ratio": 0.98,
+      "cash_ratio": 0.53,
+      "debt_to_equity": 1.17,
+      "free_cash_flow": 12899000000,
+      "fcf_margin": 0.26,
+      "net_margin": 0.22,
+      "shares_out": 23092396000
+    },
+    "2015-03-31": {
+      "current_ratio": 1.07,
+      "quick_ratio": 1.03,
+      "cash_ratio": 0.56,
+      "debt_to_equity": 1.02,
+      "free_cash_flow": 16605000000,
+      "fcf_margin": 0.29,
+      "net_margin": 0.23,
+      "shares_out": 23339432000
+    },
+    "2014-12-31": {
+      "current_ratio": 1.06,
+      "quick_ratio": 1.03,
+      "cash_ratio": 0.44,
+      "debt_to_equity": 1.12,
+      "free_cash_flow": 30457000000,
+      "fcf_margin": 0.41,
+      "net_margin": 0.24,
+      "shares_out": 23527212000
+    },
+    "2014-09-30": {
+      "current_ratio": 1.01,
+      "quick_ratio": 0.98,
+      "cash_ratio": 0.4,
+      "debt_to_equity": 1.08,
+      "free_cash_flow": 9398000000,
+      "fcf_margin": 0.22,
+      "net_margin": 0.2,
+      "shares_out": 23888328000
+    },
+    "2014-06-30": {
+      "current_ratio": 1.39,
+      "quick_ratio": 1.35,
+      "cash_ratio": 0.82,
+      "debt_to_equity": 0.84,
+      "free_cash_flow": 7824000000,
+      "fcf_margin": 0.21,
+      "net_margin": 0.21,
+      "shares_out": 24206844000
+    },
+    "2014-03-31": {
+      "current_ratio": 1.54,
+      "quick_ratio": 1.5,
+      "cash_ratio": 0.96,
+      "debt_to_equity": 0.71,
+      "free_cash_flow": 12052000000,
+      "fcf_margin": 0.26,
+      "net_margin": 0.22,
+      "shares_out": 24626784000
+    },
+    "2013-12-31": {
+      "current_ratio": 1.42,
+      "quick_ratio": 1.39,
+      "cash_ratio": 0.76,
+      "debt_to_equity": 0.74,
+      "free_cash_flow": 20626000000,
+      "fcf_margin": 0.36,
+      "net_margin": 0.23,
+      "shares_out": 25240656000
+    },
+    "2013-09-30": {
+      "current_ratio": 1.6,
+      "quick_ratio": 1.56,
+      "cash_ratio": 0.93,
+      "debt_to_equity": 0.68,
+      "free_cash_flow": 7602000000,
+      "fcf_margin": 0.2,
+      "net_margin": 0.2,
+      "shares_out": 25455668000
+    },
+    "2013-06-30": {
+      "current_ratio": 1.79,
+      "quick_ratio": 1.74,
+      "cash_ratio": 1.17,
+      "debt_to_equity": 0.62,
+      "free_cash_flow": 5812000000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.2,
+      "shares_out": 25879420000
+    },
+    "2013-03-31": {
+      "current_ratio": 1.69,
+      "quick_ratio": 1.66,
+      "cash_ratio": 1.1,
+      "debt_to_equity": 0.44,
+      "free_cash_flow": 10205000000,
+      "fcf_margin": 0.23,
+      "net_margin": 0.22,
+      "shares_out": 26488980000
+    },
+    "2012-12-31": {
+      "current_ratio": 1.48,
+      "quick_ratio": 1.45,
+      "cash_ratio": 0.85,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 20971000000,
+      "fcf_margin": 0.38,
+      "net_margin": 0.24,
+      "shares_out": 26522076000
+    },
+    "2012-09-30": {
+      "current_ratio": 1.43,
+      "quick_ratio": 1.41,
+      "cash_ratio": 0.76,
+      "debt_to_equity": 0.49,
+      "free_cash_flow": 5635000000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.23,
+      "shares_out": 26549208000
+    },
+    "2012-06-30": {
+      "current_ratio": 1.5,
+      "quick_ratio": 1.47,
+      "cash_ratio": 0.84,
+      "debt_to_equity": 0.46,
+      "free_cash_flow": 7226000000,
+      "fcf_margin": 0.21,
+      "net_margin": 0.25,
+      "shares_out": 26517652000
+    },
+    "2012-03-31": {
+      "current_ratio": 1.51,
+      "quick_ratio": 1.48,
+      "cash_ratio": 0.89,
+      "debt_to_equity": 0.47,
+      "free_cash_flow": 12468000000,
+      "fcf_margin": 0.32,
+      "net_margin": 0.3,
+      "shares_out": 26457004000
+    },
+    "2011-12-31": {
+      "current_ratio": 1.53,
+      "quick_ratio": 1.49,
+      "cash_ratio": 0.87,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 16125000000,
+      "fcf_margin": 0.35,
+      "net_margin": 0.28,
+      "shares_out": 26364016000
+    },
+    "2011-09-30": {
+      "current_ratio": 1.54,
+      "quick_ratio": 1.51,
+      "cash_ratio": 0.93,
+      "debt_to_equity": 0.52,
+      "free_cash_flow": 5858000000,
+      "fcf_margin": 0.21,
+      "net_margin": 0.23,
+      "shares_out": 26306476000
+    },
+    "2011-06-30": {
+      "current_ratio": 1.68,
+      "quick_ratio": 1.64,
+      "cash_ratio": 1.06,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 10146000000,
+      "fcf_margin": 0.36,
+      "net_margin": 0.26,
+      "shares_out": 26258680000
+    },
+    "2011-03-31": {
+      "current_ratio": 1.86,
+      "quick_ratio": 1.82,
+      "cash_ratio": 1.2,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 5563000000,
+      "fcf_margin": 0.23,
+      "net_margin": 0.24,
+      "shares_out": 26206432000
+    },
+    "2010-12-31": {
+      "current_ratio": 1.77,
+      "quick_ratio": 1.74,
+      "cash_ratio": 1.13,
+      "debt_to_equity": 0.59,
+      "free_cash_flow": 8510000000,
+      "fcf_margin": 0.32,
+      "net_margin": 0.22,
+      "shares_out": 26128312000
+    },
+    "2010-09-30": {
+      "current_ratio": 1.93,
+      "quick_ratio": 1.88,
+      "cash_ratio": 1.24,
+      "debt_to_equity": 0.57,
+      "free_cash_flow": 4870000000,
+      "fcf_margin": 0.24,
+      "net_margin": 0.21,
+      "shares_out": 26128312000
+    },
+    "2010-06-30": {
+      "current_ratio": 2.23,
+      "quick_ratio": 2.17,
+      "cash_ratio": 1.56,
+      "debt_to_equity": 0.5,
+      "free_cash_flow": 4175000000,
+      "fcf_margin": 0.27,
+      "net_margin": 0.21,
+      "shares_out": 25966108000
+    },
+    "2010-03-31": {
+      "current_ratio": 2.55,
+      "quick_ratio": 2.5,
+      "cash_ratio": 1.89,
+      "debt_to_equity": 0.45,
+      "free_cash_flow": 2029000000,
+      "fcf_margin": 0.15,
+      "net_margin": 0.23,
+      "shares_out": 25840584000
+    },
+    "2009-12-31": {
+      "current_ratio": 2.44,
+      "quick_ratio": 2.39,
+      "cash_ratio": 1.89,
+      "debt_to_equity": 0.51,
+      "free_cash_flow": 5400000000,
+      "fcf_margin": 0.34,
+      "net_margin": 0.22,
+      "shares_out": 25753924000
+    },
+    "2009-09-30": {
+      "current_ratio": 1.77,
+      "quick_ratio": 1.75,
+      "cash_ratio": 1.22,
+      "debt_to_equity": 0.93,
+      "free_cash_flow": 2638000000,
+      "fcf_margin": 0.27,
+      "net_margin": 0.17,
+      "shares_out": 25602472000
+    },
+    "2009-06-30": {
+      "current_ratio": 2.01,
+      "quick_ratio": 1.98,
+      "cash_ratio": 1.45,
+      "debt_to_equity": 0.86,
+      "free_cash_flow": 1998000000,
+      "fcf_margin": 0.24,
+      "net_margin": 0.15,
+      "shares_out": 25456480000
+    },
+    "2009-03-31": {
+      "current_ratio": 2.13,
+      "quick_ratio": 2.11,
+      "cash_ratio": 1.82,
+      "debt_to_equity": 0.78,
+      "free_cash_flow": 725000000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.15,
+      "shares_out": 25283804000
+    },
+    "2008-12-31": {
+      "current_ratio": 2.27,
+      "quick_ratio": 2.25,
+      "cash_ratio": 1.74,
+      "debt_to_equity": 0.87,
+      "free_cash_flow": 3585000000,
+      "fcf_margin": 0.35,
+      "net_margin": 0.16,
+      "shares_out": 25241832000
+    },
+    "2008-09-30": {
+      "current_ratio": 2.19,
+      "quick_ratio": 2.15,
+      "cash_ratio": 1.74,
+      "debt_to_equity": 0.88,
+      "free_cash_flow": 3873000000,
+      "fcf_margin": 0.49,
+      "net_margin": 0.14,
+      "shares_out": 25241832000
+    },
+    "2008-06-30": {
+      "current_ratio": 2.86,
+      "quick_ratio": 2.8,
+      "cash_ratio": 2.25,
+      "debt_to_equity": 0.62,
+      "free_cash_flow": 991000000,
+      "fcf_margin": 0.13,
+      "net_margin": 0.14,
+      "shares_out": 25288676000
+    },
+    "2008-03-31": {
+      "current_ratio": 2.61,
+      "quick_ratio": 2.57,
+      "cash_ratio": 2.02,
+      "debt_to_equity": 0.69,
+      "free_cash_flow": 978000000,
+      "fcf_margin": 0.13,
+      "net_margin": 0.14,
+      "shares_out": 25181212000
+    },
+    "2007-12-31": {
+      "current_ratio": 2.35,
+      "quick_ratio": 2.31,
+      "cash_ratio": 1.75,
+      "debt_to_equity": 0.79,
+      "free_cash_flow": 2555000000,
+      "fcf_margin": 0.27,
+      "net_margin": 0.16,
+      "shares_out": 25201512000
+    },
+    "2007-09-30": {
+      "current_ratio": 2.23,
+      "quick_ratio": 2.19,
+      "cash_ratio": 1.65,
+      "debt_to_equity": 0.74,
+      "free_cash_flow": 1462000000,
+      "fcf_margin": 0.24,
+      "net_margin": 0.15,
+      "shares_out": 25201512000
+    },
+    "2007-06-30": {
+      "current_ratio": 2.52,
+      "quick_ratio": 2.48,
+      "cash_ratio": 1.97,
+      "debt_to_equity": 0.61,
+      "free_cash_flow": 938000000,
+      "fcf_margin": 0.17,
+      "net_margin": 0.15,
+      "shares_out": 24938788000
+    },
+    "2007-03-31": {
+      "current_ratio": 2.72,
+      "quick_ratio": 2.68,
+      "cash_ratio": 2.29,
+      "debt_to_equity": 0.53,
+      "free_cash_flow": 528000000,
+      "fcf_margin": 0.1,
+      "net_margin": 0.15,
+      "shares_out": 24826284000
+    },
+    "2006-12-31": {
+      "current_ratio": 2.15,
+      "quick_ratio": 2.11,
+      "cash_ratio": 1.62,
+      "debt_to_equity": 0.73,
+      "free_cash_flow": 1556000000,
+      "fcf_margin": 0.22,
+      "net_margin": 0.14,
+      "shares_out": 24732316000
+    },
+    "2006-09-30": {
+      "current_ratio": 2.13,
+      "quick_ratio": 2.08,
+      "cash_ratio": 1.56,
+      "debt_to_equity": 0.72,
+      "free_cash_flow": 910000000,
+      "fcf_margin": 0.21,
+      "net_margin": 0.12,
+      "shares_out": 24538304000
+    },
+    "2006-06-30": {
+      "current_ratio": 2.29,
+      "quick_ratio": 2.24,
+      "cash_ratio": 1.83,
+      "debt_to_equity": 0.62,
+      "free_cash_flow": 770000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.11,
+      "shares_out": 24538304000
+    },
+    "2006-03-31": {
+      "current_ratio": 2.41,
+      "quick_ratio": 2.36,
+      "cash_ratio": 1.85,
+      "debt_to_equity": 0.6,
+      "free_cash_flow": -318000000,
+      "fcf_margin": -0.07,
+      "net_margin": 0.09,
+      "shares_out": 24599036000
+    },
+    "2005-12-31": {
+      "current_ratio": 2.31,
+      "quick_ratio": 2.26,
+      "cash_ratio": 1.72,
+      "debt_to_equity": 0.69,
+      "free_cash_flow": 201000000,
+      "fcf_margin": 0.03,
+      "net_margin": 0.1,
+      "shares_out": 24477796000
+    },
+    "2005-06-30": {
+      "current_ratio": 2.9,
+      "quick_ratio": 2.83,
+      "cash_ratio": 2.41,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 409000000,
+      "fcf_margin": 0.12,
+      "net_margin": 0.09,
+      "shares_out": 24102484000
+    },
+    "2005-03-31": {
+      "current_ratio": 2.6,
+      "quick_ratio": 2.55,
+      "cash_ratio": 2.11,
+      "debt_to_equity": 0.58,
+      "free_cash_flow": 493000000,
+      "fcf_margin": 0.15,
+      "net_margin": 0.09,
+      "shares_out": 23996308000
+    },
+    "2004-12-31": {
+      "current_ratio": 2.49,
+      "quick_ratio": 2.45,
+      "cash_ratio": 2.0,
+      "debt_to_equity": 0.62,
+      "free_cash_flow": 717000000,
+      "fcf_margin": 0.21,
+      "net_margin": 0.08,
+      "shares_out": 23468872000
+    },
+    "2004-09-30": {
+      "current_ratio": 2.55,
+      "quick_ratio": 2.51,
+      "cash_ratio": 2.04,
+      "debt_to_equity": 0.59,
+      "free_cash_flow": 384000000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.05,
+      "shares_out": 23468872000
+    },
+    "2004-06-30": {
+      "current_ratio": 2.81,
+      "quick_ratio": 2.78,
+      "cash_ratio": 2.3,
+      "debt_to_equity": 0.5,
+      "free_cash_flow": 173000000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.03,
+      "shares_out": 21986776000
+    },
+    "2004-03-31": {
+      "current_ratio": 2.81,
+      "quick_ratio": 2.78,
+      "cash_ratio": 2.32,
+      "debt_to_equity": 0.5,
+      "free_cash_flow": 26000000,
+      "fcf_margin": 0.01,
+      "net_margin": 0.02,
+      "shares_out": 21180880000
+    },
+    "2003-12-31": {
+      "current_ratio": 2.44,
+      "quick_ratio": 2.4,
+      "cash_ratio": 2.01,
+      "debt_to_equity": 0.61,
+      "free_cash_flow": 175000000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.03,
+      "shares_out": 20849248000
+    },
+    "2003-09-30": {
+      "current_ratio": 2.42,
+      "quick_ratio": 2.39,
+      "cash_ratio": 1.94,
+      "debt_to_equity": 0.61,
+      "free_cash_flow": 15000000,
+      "fcf_margin": 0.01,
+      "net_margin": 0.03,
+      "shares_out": 20849248000
+    },
+    "2003-06-30": {
+      "current_ratio": 2.65,
+      "quick_ratio": 2.63,
+      "cash_ratio": 2.24,
+      "debt_to_equity": 0.53,
+      "free_cash_flow": -38000000,
+      "fcf_margin": -0.02,
+      "net_margin": 0.01,
+      "shares_out": 20371512000
+    },
+    "2003-03-31": {
+      "current_ratio": 2.64,
+      "quick_ratio": 2.62,
+      "cash_ratio": 2.26,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 58000000,
+      "fcf_margin": 0.04,
+      "net_margin": 0.01,
+      "shares_out": 20285608000
+    },
+    "2002-12-31": {
+      "current_ratio": 3.26,
+      "quick_ratio": 3.24,
+      "cash_ratio": 2.8,
+      "debt_to_equity": 0.52,
+      "free_cash_flow": 90000000,
+      "fcf_margin": 0.06,
+      "net_margin": -0.0,
+      "shares_out": 20107192000
+    },
+    "2002-09-30": {
+      "current_ratio": 3.15,
+      "quick_ratio": 3.12,
+      "cash_ratio": 2.62,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 18000000,
+      "fcf_margin": 0.01,
+      "net_margin": -0.03,
+      "shares_out": 20107192000
+    },
+    "2002-06-30": {
+      "current_ratio": 3.07,
+      "quick_ratio": 3.05,
+      "cash_ratio": 2.51,
+      "debt_to_equity": 0.55,
+      "free_cash_flow": -68000000,
+      "fcf_margin": -0.05,
+      "net_margin": 0.02,
+      "shares_out": 20545392000
+    },
+    "2002-03-31": {
+      "current_ratio": 3.07,
+      "quick_ratio": 3.06,
+      "cash_ratio": 2.52,
+      "debt_to_equity": 0.56,
+      "free_cash_flow": -41000000,
+      "fcf_margin": -0.03,
+      "net_margin": 0.03,
+      "shares_out": 20494264000
+    },
+    "2001-12-31": {
+      "current_ratio": 3.23,
+      "quick_ratio": 3.22,
+      "cash_ratio": 2.77,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 6000000,
+      "fcf_margin": 0.0,
+      "net_margin": 0.03,
+      "shares_out": 20020504000
+    },
+    "2001-09-30": {
+      "current_ratio": 3.28,
+      "quick_ratio": 3.27,
+      "cash_ratio": 2.86,
+      "debt_to_equity": 0.54,
+      "free_cash_flow": 112000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.05,
+      "shares_out": 20020504000
+    },
+    "2001-06-30": {
+      "current_ratio": 3.14,
+      "quick_ratio": 3.13,
+      "cash_ratio": 2.61,
+      "debt_to_equity": 0.57,
+      "free_cash_flow": -63000000,
+      "fcf_margin": -0.04,
+      "net_margin": 0.04,
+      "shares_out": 20099072000
+    },
+    "2001-03-31": {
+      "current_ratio": 2.88,
+      "quick_ratio": 2.87,
+      "cash_ratio": 2.31,
+      "debt_to_equity": 0.64,
+      "free_cash_flow": -61000000,
+      "fcf_margin": -0.04,
+      "net_margin": 0.03,
+      "shares_out": 19757472000
+    },
+    "2000-12-31": {
+      "current_ratio": 2.87,
+      "quick_ratio": 2.86,
+      "cash_ratio": 2.48,
+      "debt_to_equity": 0.61,
+      "free_cash_flow": -35000000,
+      "fcf_margin": -0.03,
+      "net_margin": -0.21,
+      "shares_out": 18881520000
+    },
+    "2000-09-30": {
+      "current_ratio": 2.72,
+      "quick_ratio": 2.71,
+      "cash_ratio": 2.08,
+      "debt_to_equity": 0.66,
+      "free_cash_flow": 127000000,
+      "fcf_margin": 0.07,
+      "net_margin": 0.09,
+      "shares_out": 18881520000
+    },
+    "2000-06-30": {
+      "current_ratio": 2.67,
+      "quick_ratio": 2.66,
+      "cash_ratio": 2.04,
+      "debt_to_equity": 0.66,
+      "free_cash_flow": 223000000,
+      "fcf_margin": 0.12,
+      "net_margin": 0.11,
+      "shares_out": 20261752000
+    },
+    "2000-03-31": {
+      "current_ratio": 2.58,
+      "quick_ratio": 2.57,
+      "cash_ratio": 1.95,
+      "debt_to_equity": 0.66,
+      "free_cash_flow": 34000000,
+      "fcf_margin": 0.02,
+      "net_margin": 0.12,
+      "shares_out": 20383216000
+    },
+    "1999-12-31": {
+      "current_ratio": 2.43,
+      "quick_ratio": 2.42,
+      "cash_ratio": 1.86,
+      "debt_to_equity": 0.72,
+      "free_cash_flow": 335000000,
+      "fcf_margin": 0.14,
+      "net_margin": 0.08,
+      "shares_out": 19982704000
+    },
+    "1999-09-30": {
+      "current_ratio": 2.67,
+      "quick_ratio": 2.66,
+      "cash_ratio": 2.08,
+      "debt_to_equity": 0.66,
+      "free_cash_flow": 202000000,
+      "fcf_margin": 0.15,
+      "net_margin": 0.08,
+      "shares_out": 19982704000
+    },
+    "1999-06-30": {
+      "current_ratio": 2.7,
+      "quick_ratio": 2.7,
+      "cash_ratio": 2.02,
+      "debt_to_equity": 0.69,
+      "free_cash_flow": 81000000,
+      "fcf_margin": 0.05,
+      "net_margin": 0.13,
+      "shares_out": 19560800000
+    },
+    "1999-03-31": {
+      "current_ratio": 2.55,
+      "quick_ratio": 2.54,
+      "cash_ratio": 1.89,
+      "debt_to_equity": 1.27,
+      "free_cash_flow": 250000000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.09,
+      "shares_out": 19398848000
+    },
+    "1998-12-31": {
+      "current_ratio": 2.49,
+      "quick_ratio": 2.48,
+      "cash_ratio": 1.74,
+      "debt_to_equity": 1.39,
+      "free_cash_flow": 218000000,
+      "fcf_margin": 0.13,
+      "net_margin": 0.09,
+      "shares_out": 19270944000
+    },
+    "1998-09-30": {
+      "current_ratio": 2.31,
+      "quick_ratio": 2.26,
+      "cash_ratio": 1.51,
+      "debt_to_equity": 1.61,
+      "free_cash_flow": 306000000,
+      "fcf_margin": 0.2,
+      "net_margin": 0.07,
+      "shares_out": 19270944000
+    },
+    "1998-06-30": {
+      "current_ratio": 2.29,
+      "quick_ratio": 2.2,
+      "cash_ratio": 1.43,
+      "debt_to_equity": 1.72,
+      "free_cash_flow": 179000000,
+      "fcf_margin": 0.13,
+      "net_margin": 0.07,
+      "shares_out": 19240032000
+    },
+    "1998-03-31": {
+      "current_ratio": 2.18,
+      "quick_ratio": 1.99,
+      "cash_ratio": 1.32,
+      "debt_to_equity": 1.86,
+      "free_cash_flow": 150000000,
+      "fcf_margin": 0.11,
+      "net_margin": 0.04,
+      "shares_out": 16342480000
+    },
+    "1997-12-31": {
+      "current_ratio": 1.88,
+      "quick_ratio": 1.64,
+      "cash_ratio": 0.97,
+      "debt_to_equity": 2.32,
+      "free_cash_flow": 125000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.03,
+      "shares_out": 15661968000
+    },
+    "1997-09-30": {
+      "current_ratio": 1.74,
+      "quick_ratio": 1.5,
+      "cash_ratio": 0.8,
+      "debt_to_equity": 2.53,
+      "free_cash_flow": 187000000,
+      "fcf_margin": 0.12,
+      "net_margin": -0.14,
+      "shares_out": 15661968000
+    },
+    "1997-03-31": {
+      "current_ratio": 1.66,
+      "quick_ratio": 1.41,
+      "cash_ratio": 0.73,
+      "debt_to_equity": 2.61,
+      "free_cash_flow": 93000000,
+      "fcf_margin": 0.06,
+      "net_margin": -0.63,
+      "shares_out": 14068208000
+    },
+    "1996-12-31": {
+      "current_ratio": 2.0,
+      "quick_ratio": 1.76,
+      "cash_ratio": 0.88,
+      "debt_to_equity": 1.71,
+      "free_cash_flow": 72000000,
+      "fcf_margin": 0.03,
+      "net_margin": -0.05,
+      "shares_out": 13947584000
+    },
+    "1996-09-30": {
+      "current_ratio": 2.08,
+      "quick_ratio": 1.75,
+      "cash_ratio": 0.87,
+      "debt_to_equity": 1.61,
+      "free_cash_flow": 395000000,
+      "fcf_margin": 0.17,
+      "net_margin": 0.01,
+      "shares_out": 13947584000
+    },
+    "1996-06-30": {
+      "current_ratio": 2.1,
+      "quick_ratio": 1.55,
+      "cash_ratio": 0.71,
+      "debt_to_equity": 1.65,
+      "free_cash_flow": 272000000,
+      "fcf_margin": 0.12,
+      "net_margin": -0.01,
+      "shares_out": 13858320000
+    },
+    "1996-03-31": {
+      "current_ratio": 1.67,
+      "quick_ratio": 1.03,
+      "cash_ratio": 0.26,
+      "debt_to_equity": 1.55,
+      "free_cash_flow": -373000000,
+      "fcf_margin": -0.17,
+      "net_margin": -0.34,
+      "shares_out": 13849808000
+    },
+    "1995-12-31": {
+      "current_ratio": 1.94,
+      "quick_ratio": 1.22,
+      "cash_ratio": 0.41,
+      "debt_to_equity": 1.35,
+      "free_cash_flow": 156000000,
+      "fcf_margin": 0.05,
+      "net_margin": -0.02,
+      "shares_out": 13775328000
+    },
+    "1995-09-30": {
+      "current_ratio": 2.14,
+      "quick_ratio": 1.38,
+      "cash_ratio": 0.41,
+      "debt_to_equity": 1.15,
+      "free_cash_flow": -722000000,
+      "fcf_margin": -0.24,
+      "net_margin": 0.02,
+      "shares_out": 13775328000
+    },
+    "1995-06-30": {
+      "current_ratio": 2.25,
+      "quick_ratio": 1.62,
+      "cash_ratio": 0.77,
+      "debt_to_equity": 1.16,
+      "free_cash_flow": -84000000,
+      "fcf_margin": -0.03,
+      "net_margin": 0.04,
+      "shares_out": 13798736000
+    },
+    "1995-03-31": {
+      "current_ratio": 2.14,
+      "quick_ratio": 1.71,
+      "cash_ratio": 0.89,
+      "debt_to_equity": 1.23,
+      "free_cash_flow": -24000000,
+      "fcf_margin": -0.01,
+      "net_margin": 0.03,
+      "shares_out": 13736128000
+    },
+    "1994-12-31": {
+      "current_ratio": 2.3,
+      "quick_ratio": 1.74,
+      "cash_ratio": 0.82,
+      "debt_to_equity": 1.16,
+      "free_cash_flow": 431000000,
+      "fcf_margin": 0.15,
+      "net_margin": 0.07,
+      "shares_out": 13619200000
+    },
+    "1994-09-30": {
+      "current_ratio": 2.15,
+      "quick_ratio": 1.59,
+      "cash_ratio": 0.65,
+      "debt_to_equity": 1.22,
+      "free_cash_flow": 205826000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.05,
+      "shares_out": 13625472000
+    },
+    "1994-06-30": {
+      "current_ratio": 2.09,
+      "quick_ratio": 1.46,
+      "cash_ratio": 0.64,
+      "debt_to_equity": 1.28,
+      "free_cash_flow": 117625000,
+      "fcf_margin": 0.05,
+      "net_margin": 0.06,
+      "shares_out": 13312320000
+    },
+    "1994-03-31": {
+      "current_ratio": 2.04,
+      "quick_ratio": 1.45,
+      "cash_ratio": 0.5,
+      "debt_to_equity": 1.51,
+      "free_cash_flow": -92436000,
+      "fcf_margin": -0.04,
+      "net_margin": 0.01,
+      "shares_out": 13321728000
+    },
+    "1993-12-31": {
+      "current_ratio": 1.69,
+      "quick_ratio": 1.11,
+      "cash_ratio": 0.48,
+      "debt_to_equity": 1.46,
+      "free_cash_flow": 346436000,
+      "fcf_margin": 0.14,
+      "net_margin": 0.02,
+      "shares_out": 13106352000
+    },
+    "1993-09-30": {
+      "current_ratio": 1.81,
+      "quick_ratio": 1.21,
+      "cash_ratio": 0.27,
+      "debt_to_equity": 1.55,
+      "free_cash_flow": -447500000,
+      "fcf_margin": -0.21,
+      "net_margin": 0.0,
+      "shares_out": 13099072000
+    },
+    "1993-06-30": {
+      "current_ratio": 1.87,
+      "quick_ratio": 1.28,
+      "cash_ratio": 0.19,
+      "debt_to_equity": 1.36,
+      "free_cash_flow": -350339000,
+      "fcf_margin": -0.19,
+      "net_margin": -0.1,
+      "shares_out": 13489557500
+    },
+    "1993-03-31": {
+      "current_ratio": 2.49,
+      "quick_ratio": 1.89,
+      "cash_ratio": 0.38,
+      "debt_to_equity": 0.96,
+      "free_cash_flow": -101307000,
+      "fcf_margin": -0.05,
+      "net_margin": 0.06,
+      "shares_out": 13500869600
+    },
+    "1992-12-31": {
+      "current_ratio": 2.41,
+      "quick_ratio": 2.02,
+      "cash_ratio": 0.38,
+      "debt_to_equity": 0.97,
+      "free_cash_flow": 34507000,
+      "fcf_margin": 0.02,
+      "net_margin": 0.08,
+      "shares_out": 13569472000
+    },
+    "1992-09-30": {
+      "current_ratio": 2.5,
+      "quick_ratio": 2.09,
+      "cash_ratio": 0.35,
+      "debt_to_equity": 0.93,
+      "free_cash_flow": -22800000,
+      "fcf_margin": -0.01,
+      "net_margin": 0.06,
+      "shares_out": 13481791000
+    },
+    "1992-06-30": {
+      "current_ratio": 2.52,
+      "quick_ratio": 2.13,
+      "cash_ratio": 0.54,
+      "debt_to_equity": 0.94,
+      "free_cash_flow": 178200000,
+      "fcf_margin": 0.1,
+      "net_margin": 0.08,
+      "shares_out": 13657777800
+    },
+    "1992-03-31": {
+      "current_ratio": 2.6,
+      "quick_ratio": 2.17,
+      "cash_ratio": 0.61,
+      "debt_to_equity": 0.89,
+      "free_cash_flow": 279300000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.08,
+      "shares_out": 13755636400
+    },
+    "1991-12-31": {
+      "current_ratio": 2.42,
+      "quick_ratio": 1.91,
+      "cash_ratio": 0.42,
+      "debt_to_equity": 0.95,
+      "free_cash_flow": 254100000,
+      "fcf_margin": 0.14,
+      "net_margin": 0.09,
+      "shares_out": 13670588200
+    },
+    "1991-09-30": {
+      "current_ratio": 2.35,
+      "quick_ratio": 1.8,
+      "cash_ratio": 0.5,
+      "debt_to_equity": 0.98,
+      "free_cash_flow": 3800000,
+      "fcf_margin": 0.0,
+      "net_margin": 0.05,
+      "shares_out": 13670588200
+    },
+    "1991-06-30": {
+      "current_ratio": 2.2,
+      "quick_ratio": 1.63,
+      "cash_ratio": 0.6,
+      "debt_to_equity": 1.07,
+      "free_cash_flow": -189000000,
+      "fcf_margin": -0.12,
+      "net_margin": -0.03,
+      "shares_out": 13516363600
+    },
+    "1991-03-31": {
+      "current_ratio": 2.82,
+      "quick_ratio": 2.2,
+      "cash_ratio": 0.88,
+      "debt_to_equity": 0.89,
+      "free_cash_flow": -57100000,
+      "fcf_margin": -0.04,
+      "net_margin": 0.08,
+      "shares_out": 13595555600
+    },
+    "1990-12-31": {
+      "current_ratio": 2.37,
+      "quick_ratio": 1.99,
+      "cash_ratio": 0.69,
+      "debt_to_equity": 1.04,
+      "free_cash_flow": 152700000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.09,
+      "shares_out": 13168750000
+    },
+    "1990-09-30": {
+      "current_ratio": 2.34,
+      "quick_ratio": 1.99,
+      "cash_ratio": 0.36,
+      "debt_to_equity": 1.06,
+      "free_cash_flow": 29900000,
+      "fcf_margin": 0.02,
+      "net_margin": 0.07,
+      "shares_out": 13168750000
+    },
+    "1990-06-30": {
+      "current_ratio": 2.64,
+      "quick_ratio": 2.31,
+      "cash_ratio": 0.75,
+      "debt_to_equity": 0.92,
+      "free_cash_flow": 251000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.09,
+      "shares_out": 13976666700
+    },
+    "1990-03-31": {
+      "current_ratio": 2.93,
+      "quick_ratio": 2.53,
+      "cash_ratio": 0.83,
+      "debt_to_equity": 0.79,
+      "free_cash_flow": 260500000,
+      "fcf_margin": 0.19,
+      "net_margin": 0.1,
+      "shares_out": 14193846200
+    },
+    "1989-12-31": {
+      "current_ratio": 2.61,
+      "quick_ratio": 2.13,
+      "cash_ratio": 0.46,
+      "debt_to_equity": 0.85,
+      "free_cash_flow": 198200000,
+      "fcf_margin": 0.13,
+      "net_margin": 0.08,
+      "shares_out": 14560000000
+    }
+  },
+  "AMZN.US": {
+    "2024-12-31": {
+      "current_ratio": 1.06,
+      "quick_ratio": 0.87,
+      "cash_ratio": 0.56,
+      "debt_to_equity": 1.19,
+      "free_cash_flow": 17802000000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.11,
+      "shares_out": 10721000000
+    },
+    "2024-09-30": {
+      "current_ratio": 1.09,
+      "quick_ratio": 0.87,
+      "cash_ratio": 0.55,
+      "debt_to_equity": 1.26,
+      "free_cash_flow": 3351000000,
+      "fcf_margin": 0.02,
+      "net_margin": 0.1,
+      "shares_out": 10735000000
+    },
+    "2024-06-30": {
+      "current_ratio": 1.1,
+      "quick_ratio": 0.88,
+      "cash_ratio": 0.56,
+      "debt_to_equity": 1.35,
+      "free_cash_flow": 7661000000,
+      "fcf_margin": 0.05,
+      "net_margin": 0.09,
+      "shares_out": 10708000000
+    },
+    "2024-03-31": {
+      "current_ratio": 1.07,
+      "quick_ratio": 0.87,
+      "cash_ratio": 0.56,
+      "debt_to_equity": 1.45,
+      "free_cash_flow": 4064000000,
+      "fcf_margin": 0.03,
+      "net_margin": 0.07,
+      "shares_out": 10670000000
+    },
+    "2023-12-31": {
+      "current_ratio": 1.05,
+      "quick_ratio": 0.84,
+      "cash_ratio": 0.53,
+      "debt_to_equity": 1.61,
+      "free_cash_flow": 27877000000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.06,
+      "shares_out": 10610000000
+    },
+    "2023-09-30": {
+      "current_ratio": 0.98,
+      "quick_ratio": 0.74,
+      "cash_ratio": 0.44,
+      "debt_to_equity": 1.66,
+      "free_cash_flow": 8738000000,
+      "fcf_margin": 0.06,
+      "net_margin": 0.07,
+      "shares_out": 10558000000
+    },
+    "2023-06-30": {
+      "current_ratio": 0.95,
+      "quick_ratio": 0.7,
+      "cash_ratio": 0.43,
+      "debt_to_equity": 1.83,
+      "free_cash_flow": 5021000000,
+      "fcf_margin": 0.04,
+      "net_margin": 0.05,
+      "shares_out": 10449000000
+    },
+    "2023-03-31": {
+      "current_ratio": 0.92,
+      "quick_ratio": 0.69,
+      "cash_ratio": 0.44,
+      "debt_to_equity": 2.01,
+      "free_cash_flow": -9419000000,
+      "fcf_margin": -0.07,
+      "net_margin": 0.02,
+      "shares_out": 10258000000
+    },
+    "2022-12-31": {
+      "current_ratio": 0.94,
+      "quick_ratio": 0.72,
+      "cash_ratio": 0.45,
+      "debt_to_equity": 2.17,
+      "free_cash_flow": 12581000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.0,
+      "shares_out": 10242000000
+    },
+    "2022-09-30": {
+      "current_ratio": 0.94,
+      "quick_ratio": 0.68,
+      "cash_ratio": 0.42,
+      "debt_to_equity": 2.12,
+      "free_cash_flow": -4974000000,
+      "fcf_margin": -0.04,
+      "net_margin": 0.02,
+      "shares_out": 10198000000
+    },
+    "2022-06-30": {
+      "current_ratio": 0.95,
+      "quick_ratio": 0.68,
+      "cash_ratio": 0.43,
+      "debt_to_equity": 2.19,
+      "free_cash_flow": -6759000000,
+      "fcf_margin": -0.06,
+      "net_margin": -0.02,
+      "shares_out": 10183000000
+    },
+    "2022-03-31": {
+      "current_ratio": 0.96,
+      "quick_ratio": 0.71,
+      "cash_ratio": 0.48,
+      "debt_to_equity": 2.07,
+      "free_cash_flow": -17741000000,
+      "fcf_margin": -0.15,
+      "net_margin": -0.03,
+      "shares_out": 10180000000
+    },
+    "2021-12-31": {
+      "current_ratio": 1.14,
+      "quick_ratio": 0.91,
+      "cash_ratio": 0.68,
+      "debt_to_equity": 2.04,
+      "free_cash_flow": 3151000000,
+      "fcf_margin": 0.02,
+      "net_margin": 0.1,
+      "shares_out": 10320000000
+    },
+    "2021-09-30": {
+      "current_ratio": 1.12,
+      "quick_ratio": 0.87,
+      "cash_ratio": 0.64,
+      "debt_to_equity": 2.17,
+      "free_cash_flow": -8435000000,
+      "fcf_margin": -0.08,
+      "net_margin": 0.03,
+      "shares_out": 10300000000
+    },
+    "2021-06-30": {
+      "current_ratio": 1.2,
+      "quick_ratio": 0.99,
+      "cash_ratio": 0.76,
+      "debt_to_equity": 2.14,
+      "free_cash_flow": -1573000000,
+      "fcf_margin": -0.01,
+      "net_margin": 0.07,
+      "shares_out": 10280000000
+    },
+    "2021-03-31": {
+      "current_ratio": 1.05,
+      "quick_ratio": 0.85,
+      "cash_ratio": 0.63,
+      "debt_to_equity": 2.13,
+      "free_cash_flow": -7869000000,
+      "fcf_margin": -0.07,
+      "net_margin": 0.07,
+      "shares_out": 10260000000
+    },
+    "2020-12-31": {
+      "current_ratio": 1.05,
+      "quick_ratio": 0.86,
+      "cash_ratio": 0.67,
+      "debt_to_equity": 2.44,
+      "free_cash_flow": 15606000000,
+      "fcf_margin": 0.12,
+      "net_margin": 0.06,
+      "shares_out": 10260000000
+    },
+    "2020-09-30": {
+      "current_ratio": 1.11,
+      "quick_ratio": 0.88,
+      "cash_ratio": 0.67,
+      "debt_to_equity": 2.41,
+      "free_cash_flow": 901000000,
+      "fcf_margin": 0.01,
+      "net_margin": 0.07,
+      "shares_out": 10240000000
+    },
+    "2020-06-30": {
+      "current_ratio": 1.18,
+      "quick_ratio": 0.97,
+      "cash_ratio": 0.76,
+      "debt_to_equity": 2.5,
+      "free_cash_flow": 13147000000,
+      "fcf_margin": 0.15,
+      "net_margin": 0.06,
+      "shares_out": 10180000000
+    },
+    "2020-03-31": {
+      "current_ratio": 1.08,
+      "quick_ratio": 0.84,
+      "cash_ratio": 0.62,
+      "debt_to_equity": 2.39,
+      "free_cash_flow": -3731000000,
+      "fcf_margin": -0.05,
+      "net_margin": 0.03,
+      "shares_out": 10120000000
+    },
+    "2019-12-31": {
+      "current_ratio": 1.1,
+      "quick_ratio": 0.86,
+      "cash_ratio": 0.63,
+      "debt_to_equity": 2.63,
+      "free_cash_flow": 14347000000,
+      "fcf_margin": 0.16,
+      "net_margin": 0.04,
+      "shares_out": 10100000000
+    },
+    "2019-09-30": {
+      "current_ratio": 1.1,
+      "quick_ratio": 0.84,
+      "cash_ratio": 0.6,
+      "debt_to_equity": 2.52,
+      "free_cash_flow": 3195000000,
+      "fcf_margin": 0.05,
+      "net_margin": 0.03,
+      "shares_out": 10080000000
+    },
+    "2019-06-30": {
+      "current_ratio": 1.1,
+      "quick_ratio": 0.84,
+      "cash_ratio": 0.6,
+      "debt_to_equity": 2.61,
+      "free_cash_flow": 5556000000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.04,
+      "shares_out": 10060000000
+    },
+    "2019-03-31": {
+      "current_ratio": 1.09,
+      "quick_ratio": 0.83,
+      "cash_ratio": 0.58,
+      "debt_to_equity": 2.68,
+      "free_cash_flow": -1444000000,
+      "fcf_margin": -0.02,
+      "net_margin": 0.06,
+      "shares_out": 10040000000
+    },
+    "2018-12-31": {
+      "current_ratio": 1.1,
+      "quick_ratio": 0.85,
+      "cash_ratio": 0.6,
+      "debt_to_equity": 2.73,
+      "free_cash_flow": 12745000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.04,
+      "shares_out": 10020000000
+    },
+    "2018-09-30": {
+      "current_ratio": 1.08,
+      "quick_ratio": 0.8,
+      "cash_ratio": 0.54,
+      "debt_to_equity": 2.67,
+      "free_cash_flow": 5236000000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.05,
+      "shares_out": 10020000000
+    },
+    "2018-06-30": {
+      "current_ratio": 1.07,
+      "quick_ratio": 0.78,
+      "cash_ratio": 0.53,
+      "debt_to_equity": 2.83,
+      "free_cash_flow": 4206000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.05,
+      "shares_out": 10000000000
+    },
+    "2018-03-31": {
+      "current_ratio": 1.06,
+      "quick_ratio": 0.77,
+      "cash_ratio": 0.52,
+      "debt_to_equity": 3.02,
+      "free_cash_flow": -4889000000,
+      "fcf_margin": -0.1,
+      "net_margin": 0.03,
+      "shares_out": 9960000000
+    },
+    "2017-12-31": {
+      "current_ratio": 1.04,
+      "quick_ratio": 0.76,
+      "cash_ratio": 0.54,
+      "debt_to_equity": 3.74,
+      "free_cash_flow": 8725000000,
+      "fcf_margin": 0.14,
+      "net_margin": 0.03,
+      "shares_out": 9920000000
+    },
+    "2017-09-30": {
+      "current_ratio": 1.03,
+      "quick_ratio": 0.74,
+      "cash_ratio": 0.52,
+      "debt_to_equity": 3.67,
+      "free_cash_flow": 1192000000,
+      "fcf_margin": 0.03,
+      "net_margin": 0.01,
+      "shares_out": 9880000000
+    },
+    "2017-06-30": {
+      "current_ratio": 1.01,
+      "quick_ratio": 0.73,
+      "cash_ratio": 0.53,
+      "debt_to_equity": 2.78,
+      "free_cash_flow": 1328000000,
+      "fcf_margin": 0.03,
+      "net_margin": 0.01,
+      "shares_out": 9840000000
+    },
+    "2017-03-31": {
+      "current_ratio": 1.06,
+      "quick_ratio": 0.77,
+      "cash_ratio": 0.58,
+      "debt_to_equity": 2.74,
+      "free_cash_flow": -3451000000,
+      "fcf_margin": -0.1,
+      "net_margin": 0.02,
+      "shares_out": 9800000000
+    },
+    "2016-12-31": {
+      "current_ratio": 1.04,
+      "quick_ratio": 0.78,
+      "cash_ratio": 0.59,
+      "debt_to_equity": 3.32,
+      "free_cash_flow": 8646000000,
+      "fcf_margin": 0.2,
+      "net_margin": 0.02,
+      "shares_out": 9720000000
+    },
+    "2016-09-30": {
+      "current_ratio": 1.06,
+      "quick_ratio": 0.74,
+      "cash_ratio": 0.55,
+      "debt_to_equity": 2.99,
+      "free_cash_flow": 2645000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.01,
+      "shares_out": 9700000000
+    },
+    "2016-06-30": {
+      "current_ratio": 1.09,
+      "quick_ratio": 0.76,
+      "cash_ratio": 0.56,
+      "debt_to_equity": 2.93,
+      "free_cash_flow": 1754000000,
+      "fcf_margin": 0.06,
+      "net_margin": 0.03,
+      "shares_out": 9660000000
+    },
+    "2016-03-31": {
+      "current_ratio": 1.08,
+      "quick_ratio": 0.74,
+      "cash_ratio": 0.56,
+      "debt_to_equity": 3.14,
+      "free_cash_flow": -3339000000,
+      "fcf_margin": -0.11,
+      "net_margin": 0.02,
+      "shares_out": 9620000000
+    },
+    "2015-12-31": {
+      "current_ratio": 1.05,
+      "quick_ratio": 0.75,
+      "cash_ratio": 0.58,
+      "debt_to_equity": 3.84,
+      "free_cash_flow": 7503000000,
+      "fcf_margin": 0.21,
+      "net_margin": 0.01,
+      "shares_out": 9620000000
+    },
+    "2015-09-30": {
+      "current_ratio": 1.08,
+      "quick_ratio": 0.75,
+      "cash_ratio": 0.54,
+      "debt_to_equity": 3.52,
+      "free_cash_flow": 1415000000,
+      "fcf_margin": 0.06,
+      "net_margin": 0.0,
+      "shares_out": 9560000000
+    },
+    "2015-06-30": {
+      "current_ratio": 1.1,
+      "quick_ratio": 0.79,
+      "cash_ratio": 0.59,
+      "debt_to_equity": 3.46,
+      "free_cash_flow": 784000000,
+      "fcf_margin": 0.03,
+      "net_margin": 0.0,
+      "shares_out": 9520000000
+    },
+    "2015-03-31": {
+      "current_ratio": 1.12,
+      "quick_ratio": 0.8,
+      "cash_ratio": 0.59,
+      "debt_to_equity": 3.61,
+      "free_cash_flow": -2370000000,
+      "fcf_margin": -0.1,
+      "net_margin": -0.0,
+      "shares_out": 9300000000
+    },
+    "2014-12-31": {
+      "current_ratio": 1.12,
+      "quick_ratio": 0.82,
+      "cash_ratio": 0.62,
+      "debt_to_equity": 4.07,
+      "free_cash_flow": 5571000000,
+      "fcf_margin": 0.19,
+      "net_margin": 0.01,
+      "shares_out": 9440000000
+    },
+    "2014-09-30": {
+      "current_ratio": 0.89,
+      "quick_ratio": 0.54,
+      "cash_ratio": 0.33,
+      "debt_to_equity": 2.91,
+      "free_cash_flow": 388000000,
+      "fcf_margin": 0.02,
+      "net_margin": -0.02,
+      "shares_out": 9260000000
+    },
+    "2014-06-30": {
+      "current_ratio": 1.0,
+      "quick_ratio": 0.65,
+      "cash_ratio": 0.43,
+      "debt_to_equity": 2.57,
+      "free_cash_flow": -428000000,
+      "fcf_margin": -0.02,
+      "net_margin": -0.01,
+      "shares_out": 9220000000
+    },
+    "2014-03-31": {
+      "current_ratio": 1.05,
+      "quick_ratio": 0.69,
+      "cash_ratio": 0.47,
+      "debt_to_equity": 2.52,
+      "free_cash_flow": -3582000000,
+      "fcf_margin": -0.18,
+      "net_margin": 0.01,
+      "shares_out": 9360000000
+    },
+    "2013-12-31": {
+      "current_ratio": 1.07,
+      "quick_ratio": 0.75,
+      "cash_ratio": 0.54,
+      "debt_to_equity": 3.12,
+      "free_cash_flow": 4698000000,
+      "fcf_margin": 0.18,
+      "net_margin": 0.01,
+      "shares_out": 9340000000
+    },
+    "2013-09-30": {
+      "current_ratio": 1.07,
+      "quick_ratio": 0.7,
+      "cash_ratio": 0.48,
+      "debt_to_equity": 2.51,
+      "free_cash_flow": 350000000,
+      "fcf_margin": 0.02,
+      "net_margin": -0.0,
+      "shares_out": 9140000000
+    },
+    "2013-06-30": {
+      "current_ratio": 1.11,
+      "quick_ratio": 0.74,
+      "cash_ratio": 0.51,
+      "debt_to_equity": 2.39,
+      "free_cash_flow": 25000000,
+      "fcf_margin": 0.0,
+      "net_margin": -0.0,
+      "shares_out": 9120000000
+    },
+    "2013-03-31": {
+      "current_ratio": 1.14,
+      "quick_ratio": 0.76,
+      "cash_ratio": 0.55,
+      "debt_to_equity": 2.37,
+      "free_cash_flow": -3042000000,
+      "fcf_margin": -0.19,
+      "net_margin": 0.01,
+      "shares_out": 9260000000
+    },
+    "2012-12-31": {
+      "current_ratio": 1.12,
+      "quick_ratio": 0.8,
+      "cash_ratio": 0.6,
+      "debt_to_equity": 2.97,
+      "free_cash_flow": 3056000000,
+      "fcf_margin": 0.14,
+      "net_margin": 0.0,
+      "shares_out": 9220000000
+    },
+    "2012-09-30": {
+      "current_ratio": 1.04,
+      "quick_ratio": 0.64,
+      "cash_ratio": 0.42,
+      "debt_to_equity": 2.02,
+      "free_cash_flow": 227000000,
+      "fcf_margin": 0.02,
+      "net_margin": -0.02,
+      "shares_out": 9200000000
+    },
+    "2012-06-30": {
+      "current_ratio": 1.08,
+      "quick_ratio": 0.68,
+      "cash_ratio": 0.45,
+      "debt_to_equity": 1.8,
+      "free_cash_flow": -63000000,
+      "fcf_margin": -0.0,
+      "net_margin": 0.0,
+      "shares_out": 9160000000
+    },
+    "2012-03-31": {
+      "current_ratio": 1.16,
+      "quick_ratio": 0.75,
+      "cash_ratio": 0.54,
+      "debt_to_equity": 1.8,
+      "free_cash_flow": -2824000000,
+      "fcf_margin": -0.21,
+      "net_margin": 0.01,
+      "shares_out": 9200000000
+    },
+    "2011-12-31": {
+      "current_ratio": 1.17,
+      "quick_ratio": 0.84,
+      "cash_ratio": 0.64,
+      "debt_to_equity": 2.26,
+      "free_cash_flow": 3719000000,
+      "fcf_margin": 0.21,
+      "net_margin": 0.01,
+      "shares_out": 9240000000
+    },
+    "2011-09-30": {
+      "current_ratio": 1.33,
+      "quick_ratio": 0.91,
+      "cash_ratio": 0.7,
+      "debt_to_equity": 1.45,
+      "free_cash_flow": 268000000,
+      "fcf_margin": 0.02,
+      "net_margin": 0.01,
+      "shares_out": 9220000000
+    },
+    "2011-06-30": {
+      "current_ratio": 1.4,
+      "quick_ratio": 1.0,
+      "cash_ratio": 0.79,
+      "debt_to_equity": 1.31,
+      "free_cash_flow": -10000000,
+      "fcf_margin": -0.0,
+      "net_margin": 0.02,
+      "shares_out": 9200000000
+    },
+    "2011-03-31": {
+      "current_ratio": 1.46,
+      "quick_ratio": 1.09,
+      "cash_ratio": 0.89,
+      "debt_to_equity": 1.3,
+      "free_cash_flow": -1884000000,
+      "fcf_margin": -0.19,
+      "net_margin": 0.02,
+      "shares_out": 9180000000
+    },
+    "2010-12-31": {
+      "current_ratio": 1.33,
+      "quick_ratio": 1.02,
+      "cash_ratio": 0.84,
+      "debt_to_equity": 1.74,
+      "free_cash_flow": 3152000000,
+      "fcf_margin": 0.24,
+      "net_margin": 0.03,
+      "shares_out": 9160000000
+    },
+    "2010-09-30": {
+      "current_ratio": 1.5,
+      "quick_ratio": 1.1,
+      "cash_ratio": 0.92,
+      "debt_to_equity": 1.21,
+      "free_cash_flow": 540000000,
+      "fcf_margin": 0.07,
+      "net_margin": 0.03,
+      "shares_out": 9120000000
+    },
+    "2010-06-30": {
+      "current_ratio": 1.55,
+      "quick_ratio": 1.18,
+      "cash_ratio": 0.97,
+      "debt_to_equity": 1.12,
+      "free_cash_flow": 54000000,
+      "fcf_margin": 0.01,
+      "net_margin": 0.03,
+      "shares_out": 9100000000
+    },
+    "2010-03-31": {
+      "current_ratio": 1.53,
+      "quick_ratio": 1.18,
+      "cash_ratio": 0.97,
+      "debt_to_equity": 1.14,
+      "free_cash_flow": -1238000000,
+      "fcf_margin": -0.17,
+      "net_margin": 0.04,
+      "shares_out": 9080000000
+    },
+    "2009-12-31": {
+      "current_ratio": 1.33,
+      "quick_ratio": 1.04,
+      "cash_ratio": 0.86,
+      "debt_to_equity": 1.63,
+      "free_cash_flow": 2473000000,
+      "fcf_margin": 0.26,
+      "net_margin": 0.04,
+      "shares_out": 9000000000
+    },
+    "2009-09-30": {
+      "current_ratio": 1.4,
+      "quick_ratio": 1.05,
+      "cash_ratio": 0.88,
+      "debt_to_equity": 1.5,
+      "free_cash_flow": 696000000,
+      "fcf_margin": 0.13,
+      "net_margin": 0.04,
+      "shares_out": 8820000000
+    },
+    "2009-06-30": {
+      "current_ratio": 1.46,
+      "quick_ratio": 1.09,
+      "cash_ratio": 0.88,
+      "debt_to_equity": 1.36,
+      "free_cash_flow": 390000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.03,
+      "shares_out": 8800000000
+    },
+    "2009-03-31": {
+      "current_ratio": 1.4,
+      "quick_ratio": 1.03,
+      "cash_ratio": 0.8,
+      "debt_to_equity": 1.39,
+      "free_cash_flow": -640000000,
+      "fcf_margin": -0.13,
+      "net_margin": 0.04,
+      "shares_out": 8740000000
+    },
+    "2008-12-31": {
+      "current_ratio": 1.3,
+      "quick_ratio": 1.0,
+      "cash_ratio": 0.79,
+      "debt_to_equity": 2.11,
+      "free_cash_flow": 1469000000,
+      "fcf_margin": 0.22,
+      "net_margin": 0.03,
+      "shares_out": 8700000000
+    },
+    "2008-09-30": {
+      "current_ratio": 1.41,
+      "quick_ratio": 0.99,
+      "cash_ratio": 0.74,
+      "debt_to_equity": 1.6,
+      "free_cash_flow": 322000000,
+      "fcf_margin": 0.08,
+      "net_margin": 0.03,
+      "shares_out": 8720000000
+    },
+    "2008-06-30": {
+      "current_ratio": 1.32,
+      "quick_ratio": 0.97,
+      "cash_ratio": 0.74,
+      "debt_to_equity": 1.83,
+      "free_cash_flow": 278000000,
+      "fcf_margin": 0.07,
+      "net_margin": 0.04,
+      "shares_out": 8600000000
+    },
+    "2008-03-31": {
+      "current_ratio": 1.12,
+      "quick_ratio": 0.81,
+      "cash_ratio": 0.61,
+      "debt_to_equity": 3.0,
+      "free_cash_flow": -706000000,
+      "fcf_margin": -0.17,
+      "net_margin": 0.03,
+      "shares_out": 8520000000
+    },
+    "2007-12-31": {
+      "current_ratio": 1.39,
+      "quick_ratio": 1.07,
+      "cash_ratio": 0.84,
+      "debt_to_equity": 4.42,
+      "free_cash_flow": 1075000000,
+      "fcf_margin": 0.19,
+      "net_margin": 0.04,
+      "shares_out": 8540000000
+    },
+    "2007-09-30": {
+      "current_ratio": 1.48,
+      "quick_ratio": 1.06,
+      "cash_ratio": 0.82,
+      "debt_to_equity": 5.07,
+      "free_cash_flow": 168000000,
+      "fcf_margin": 0.05,
+      "net_margin": 0.02,
+      "shares_out": 8500000000
+    },
+    "2007-06-30": {
+      "current_ratio": 1.48,
+      "quick_ratio": 1.1,
+      "cash_ratio": 0.86,
+      "debt_to_equity": 6.24,
+      "free_cash_flow": 252000000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.03,
+      "shares_out": 8460000000
+    },
+    "2007-03-31": {
+      "current_ratio": 1.41,
+      "quick_ratio": 1.0,
+      "cash_ratio": 0.77,
+      "debt_to_equity": 9.37,
+      "free_cash_flow": -313000000,
+      "fcf_margin": -0.1,
+      "net_margin": 0.04,
+      "shares_out": 8400000000
+    },
+    "2006-12-31": {
+      "current_ratio": 1.33,
+      "quick_ratio": 0.99,
+      "cash_ratio": 0.8,
+      "debt_to_equity": 9.12,
+      "free_cash_flow": 694000000,
+      "fcf_margin": 0.17,
+      "net_margin": 0.02,
+      "shares_out": 8420000000
+    },
+    "2006-09-30": {
+      "current_ratio": 1.31,
+      "quick_ratio": 0.89,
+      "cash_ratio": 0.69,
+      "debt_to_equity": 15.67,
+      "free_cash_flow": 68000000,
+      "fcf_margin": 0.03,
+      "net_margin": 0.01,
+      "shares_out": 8480000000
+    },
+    "2006-06-30": {
+      "current_ratio": 1.53,
+      "quick_ratio": 1.17,
+      "cash_ratio": 0.97,
+      "debt_to_equity": 7.26,
+      "free_cash_flow": 72000000,
+      "fcf_margin": 0.03,
+      "net_margin": 0.01,
+      "shares_out": 8520000000
+    },
+    "2006-03-31": {
+      "current_ratio": 1.55,
+      "quick_ratio": 1.17,
+      "cash_ratio": 0.95,
+      "debt_to_equity": 8.23,
+      "free_cash_flow": -349000000,
+      "fcf_margin": -0.15,
+      "net_margin": 0.02,
+      "shares_out": 8520000000
+    },
+    "2005-12-31": {
+      "current_ratio": 1.54,
+      "quick_ratio": 1.24,
+      "cash_ratio": 1.05,
+      "debt_to_equity": 14.02,
+      "free_cash_flow": 575000000,
+      "fcf_margin": 0.19,
+      "net_margin": 0.06,
+      "shares_out": 8520000000
+    },
+    "2005-09-30": {
+      "current_ratio": 1.62,
+      "quick_ratio": 1.27,
+      "cash_ratio": 1.08,
+      "debt_to_equity": 471.0,
+      "free_cash_flow": 77000000,
+      "fcf_margin": 0.04,
+      "net_margin": 0.02,
+      "shares_out": 8560000000
+    },
+    "2005-06-30": {
+      "current_ratio": 1.68,
+      "quick_ratio": 1.35,
+      "cash_ratio": 1.16,
+      "debt_to_equity": -41.64,
+      "free_cash_flow": 198000000,
+      "fcf_margin": 0.11,
+      "net_margin": 0.03,
+      "shares_out": 8500000000
+    },
+    "2005-03-31": {
+      "current_ratio": 1.67,
+      "quick_ratio": 1.3,
+      "cash_ratio": 1.07,
+      "debt_to_equity": -16.26,
+      "free_cash_flow": -320000000,
+      "fcf_margin": -0.17,
+      "net_margin": 0.03,
+      "shares_out": 8480000000
+    },
+    "2004-12-31": {
+      "current_ratio": 1.57,
+      "quick_ratio": 1.27,
+      "cash_ratio": 1.1,
+      "debt_to_equity": -15.31,
+      "free_cash_flow": 520812000,
+      "fcf_margin": 0.2,
+      "net_margin": 0.14,
+      "shares_out": 8560000000
+    },
+    "2004-09-30": {
+      "current_ratio": 1.61,
+      "quick_ratio": 1.27,
+      "cash_ratio": 1.13,
+      "debt_to_equity": -3.92,
+      "free_cash_flow": 87923000,
+      "fcf_margin": 0.06,
+      "net_margin": 0.04,
+      "shares_out": 8500000000
+    },
+    "2004-06-30": {
+      "current_ratio": 1.7,
+      "quick_ratio": 1.39,
+      "cash_ratio": 1.26,
+      "debt_to_equity": -3.39,
+      "free_cash_flow": 128893000,
+      "fcf_margin": 0.09,
+      "net_margin": 0.06,
+      "shares_out": 8500000000
+    },
+    "2004-03-31": {
+      "current_ratio": 1.62,
+      "quick_ratio": 1.3,
+      "cash_ratio": 1.15,
+      "debt_to_equity": -2.92,
+      "free_cash_flow": -260201000,
+      "fcf_margin": -0.17,
+      "net_margin": 0.07,
+      "shares_out": 8500000000
+    },
+    "2003-12-31": {
+      "current_ratio": 1.45,
+      "quick_ratio": 1.22,
+      "cash_ratio": 1.11,
+      "debt_to_equity": -3.09,
+      "free_cash_flow": 463727000,
+      "fcf_margin": 0.24,
+      "net_margin": 0.04,
+      "shares_out": 9911380000
+    },
+    "2003-09-30": {
+      "current_ratio": 1.71,
+      "quick_ratio": 1.41,
+      "cash_ratio": 1.29,
+      "debt_to_equity": -2.51,
+      "free_cash_flow": 21625000,
+      "fcf_margin": 0.02,
+      "net_margin": 0.01,
+      "shares_out": 8456040000
+    },
+    "2003-06-30": {
+      "current_ratio": 1.63,
+      "quick_ratio": 1.39,
+      "cash_ratio": 1.29,
+      "debt_to_equity": -2.28,
+      "free_cash_flow": 118883000,
+      "fcf_margin": 0.11,
+      "net_margin": -0.04,
+      "shares_out": 7877520000
+    },
+    "2003-03-31": {
+      "current_ratio": 1.92,
+      "quick_ratio": 1.68,
+      "cash_ratio": 1.55,
+      "debt_to_equity": -2.32,
+      "free_cash_flow": -258176000,
+      "fcf_margin": -0.24,
+      "net_margin": -0.01,
+      "shares_out": 7770820000
+    },
+    "2002-12-31": {
+      "current_ratio": 1.52,
+      "quick_ratio": 1.33,
+      "cash_ratio": 1.22,
+      "debt_to_equity": -2.47,
+      "free_cash_flow": 357063000,
+      "fcf_margin": 0.25,
+      "net_margin": 0.0,
+      "shares_out": 7675200000
+    },
+    "2002-09-30": {
+      "current_ratio": 1.57,
+      "quick_ratio": 1.36,
+      "cash_ratio": 1.22,
+      "debt_to_equity": -2.01,
+      "free_cash_flow": 26755000,
+      "fcf_margin": 0.03,
+      "net_margin": -0.04,
+      "shares_out": 7593000000
+    },
+    "2002-06-30": {
+      "current_ratio": 1.58,
+      "quick_ratio": 1.39,
+      "cash_ratio": 1.25,
+      "debt_to_equity": -1.99,
+      "free_cash_flow": -2803000,
+      "fcf_margin": -0.0,
+      "net_margin": -0.12,
+      "shares_out": 7538740000
+    },
+    "2002-03-31": {
+      "current_ratio": 1.45,
+      "quick_ratio": 1.24,
+      "cash_ratio": 1.13,
+      "debt_to_equity": -1.94,
+      "free_cash_flow": -245887000,
+      "fcf_margin": -0.29,
+      "net_margin": -0.03,
+      "shares_out": 7460620000
+    },
+    "2001-12-31": {
+      "current_ratio": 1.31,
+      "quick_ratio": 1.15,
+      "cash_ratio": 1.08,
+      "debt_to_equity": -2.14,
+      "free_cash_flow": 341586000,
+      "fcf_margin": 0.31,
+      "net_margin": 0.0,
+      "shares_out": 7429960000
+    },
+    "2001-09-30": {
+      "current_ratio": 1.39,
+      "quick_ratio": 1.18,
+      "cash_ratio": 1.06,
+      "debt_to_equity": -1.93,
+      "free_cash_flow": -77328000,
+      "fcf_margin": -0.07,
+      "net_margin": -0.15,
+      "shares_out": 7361040000
+    },
+    "2001-06-30": {
+      "current_ratio": 1.25,
+      "quick_ratio": 1.05,
+      "cash_ratio": 0.94,
+      "debt_to_equity": -1.94,
+      "free_cash_flow": -7940000,
+      "fcf_margin": -0.01,
+      "net_margin": -0.25,
+      "shares_out": 7195040000
+    },
+    "2001-03-31": {
+      "current_ratio": 1.42,
+      "quick_ratio": 1.16,
+      "cash_ratio": 1.06,
+      "debt_to_equity": -2.17,
+      "free_cash_flow": -426421000,
+      "fcf_margin": -0.61,
+      "net_margin": -0.32,
+      "shares_out": 7148480000
+    },
+    "2000-12-31": {
+      "current_ratio": 1.4,
+      "quick_ratio": 1.22,
+      "cash_ratio": 1.13,
+      "debt_to_equity": -3.21,
+      "free_cash_flow": 210322000,
+      "fcf_margin": 0.22,
+      "net_margin": -0.56,
+      "shares_out": 7114360000
+    },
+    "2000-09-30": {
+      "current_ratio": 1.76,
+      "quick_ratio": 1.52,
+      "cash_ratio": 1.37,
+      "debt_to_equity": -5.63,
+      "free_cash_flow": -45636000,
+      "fcf_margin": -0.07,
+      "net_margin": -0.38,
+      "shares_out": 7079080000
+    },
+    "2000-06-30": {
+      "current_ratio": 1.92,
+      "quick_ratio": 1.64,
+      "cash_ratio": 1.49,
+      "debt_to_equity": -9.84,
+      "free_cash_flow": -82907000,
+      "fcf_margin": -0.14,
+      "net_margin": -0.55,
+      "shares_out": 6997720000
+    },
+    "2000-03-31": {
+      "current_ratio": 2.24,
+      "quick_ratio": 1.94,
+      "cash_ratio": 1.78,
+      "debt_to_equity": 105.56,
+      "free_cash_flow": -347115000,
+      "fcf_margin": -0.6,
+      "net_margin": -0.54,
+      "shares_out": 6877680000
+    },
+    "1999-12-31": {
+      "current_ratio": 1.37,
+      "quick_ratio": 1.07,
+      "cash_ratio": 0.96,
+      "debt_to_equity": 8.26,
+      "free_cash_flow": -73690000,
+      "fcf_margin": -0.11,
+      "net_margin": -0.48,
+      "shares_out": 6756400000
+    },
+    "1999-09-30": {
+      "current_ratio": 3.02,
+      "quick_ratio": 2.69,
+      "cash_ratio": 2.53,
+      "debt_to_equity": 4.33,
+      "free_cash_flow": -146335000,
+      "fcf_margin": -0.41,
+      "net_margin": -0.55,
+      "shares_out": 6649760000
+    },
+    "1999-06-30": {
+      "current_ratio": 4.52,
+      "quick_ratio": 4.31,
+      "cash_ratio": 4.12,
+      "debt_to_equity": 3.02,
+      "free_cash_flow": -121649000,
+      "fcf_margin": -0.39,
+      "net_margin": -0.44,
+      "shares_out": 6446800000
+    },
+    "1999-03-31": {
+      "current_ratio": 7.57,
+      "quick_ratio": 7.34,
+      "cash_ratio": 7.16,
+      "debt_to_equity": 22.38,
+      "free_cash_flow": -36256000,
+      "fcf_margin": -0.12,
+      "net_margin": -0.21,
+      "shares_out": 6275880000
+    },
+    "1998-12-31": {
+      "current_ratio": 2.63,
+      "quick_ratio": 2.44,
+      "cash_ratio": 2.31,
+      "debt_to_equity": 3.67,
+      "free_cash_flow": 29144000,
+      "fcf_margin": 0.12,
+      "net_margin": -0.18,
+      "shares_out": 6351964400
+    },
+    "1998-09-30": {
+      "current_ratio": 3.77,
+      "quick_ratio": 3.57,
+      "cash_ratio": 3.39,
+      "debt_to_equity": 2.45,
+      "free_cash_flow": -14308000,
+      "fcf_margin": -0.09,
+      "net_margin": -0.29,
+      "shares_out": 6026666700
+    },
+    "1998-06-30": {
+      "current_ratio": 5.14,
+      "quick_ratio": 4.9,
+      "cash_ratio": 4.73,
+      "debt_to_equity": 10.25,
+      "free_cash_flow": -3508000,
+      "fcf_margin": -0.03,
+      "net_margin": -0.18,
+      "shares_out": 5300000000
+    },
+    "1998-03-31": {
+      "current_ratio": 2.74,
+      "quick_ratio": 2.5,
+      "cash_ratio": 2.41,
+      "debt_to_equity": 6.31,
+      "free_cash_flow": -8626000,
+      "fcf_margin": -0.1,
+      "net_margin": -0.11,
+      "shares_out": 5200000000
+    },
+    "1997-12-31": {
+      "current_ratio": 3.09,
+      "quick_ratio": 2.89,
+      "cash_ratio": 2.81,
+      "debt_to_equity": 4.24,
+      "free_cash_flow": 4200000,
+      "fcf_margin": 0.06,
+      "net_margin": -0.14,
+      "shares_out": 3540274300
+    },
+    "1997-09-30": {
+      "current_ratio": 2.66,
+      "quick_ratio": 2.53,
+      "cash_ratio": 2.26,
+      "debt_to_equity": 0.53,
+      "free_cash_flow": -8300000,
+      "fcf_margin": -0.22,
+      "net_margin": -0.22,
+      "shares_out": 5666666700
+    },
+    "1997-06-30": {
+      "current_ratio": 3.4,
+      "quick_ratio": 3.3,
+      "cash_ratio": 2.74,
+      "debt_to_equity": 0.38,
+      "free_cash_flow": 100000,
+      "fcf_margin": 0.0,
+      "net_margin": -0.24,
+      "shares_out": 4466666700
+    },
+    "1997-03-31": {
+      "current_ratio": 1.0,
+      "quick_ratio": 0.9,
+      "cash_ratio": 0.8,
+      "debt_to_equity": 3.18,
+      "free_cash_flow": 300000,
+      "fcf_margin": 0.02,
+      "net_margin": -0.19,
+      "shares_out": 5731880000
+    },
+    "1996-12-31": {
+      "current_ratio": 1.45,
+      "quick_ratio": 1.33,
+      "cash_ratio": 1.27,
+      "debt_to_equity": 1.44,
+      "free_cash_flow": 300000,
+      "fcf_margin": 0.04,
+      "net_margin": -0.27,
+      "shares_out": 3500000000
+    }
+  }
+}
